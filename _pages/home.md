@@ -7,7 +7,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-permalink: /
+
+permalink: /home/
 ---
 
 Hello World
