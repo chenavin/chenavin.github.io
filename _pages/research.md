@@ -4,8 +4,7 @@ layout: single
 author_profile: true
 permalink: /research
 ---
-## Research
-
+<hr>
 Test header
 
 aasfsfsafa
