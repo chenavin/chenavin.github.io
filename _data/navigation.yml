@@ -1,14 +1,16 @@
 # main links
 main:
   - title: "Home"
-    url: /index.md
+    url: /home
   - title: "Research"
-    url: /research/
+    url: /research
+  - title: "Publications"
+    url: /publications
   - title: "Teaching"
-    url: /teaching/
+    url: /teaching
   - title: "Students"
-    url: /students/
+    url: /students
   - title: "Talks"
-    url: /talks/
+    url: /talks
   - title: "Photos"
-    url: /photos/
+    url: /photos
