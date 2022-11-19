@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Chen Avin"
   avatar           : "/assets/images/chen.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "This my personal homepage"
+  bio              : [Ben Gurion University of the Negev](https://www.bgu.ac.il)
   location         : "Beer-Sheva"
   email            : 
   links:
