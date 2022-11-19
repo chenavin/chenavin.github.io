@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-permalink: /pubilcations
+permalink: /publications
 ---
 
 Hello new world
