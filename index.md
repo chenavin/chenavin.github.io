@@ -1,6 +1,7 @@
 ---
 layout: single
 author_profile: true
+permalink: /home
 ---
 
 My homepage
