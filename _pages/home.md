@@ -1,5 +1,6 @@
 ---
-permalink: /home/
+layout: single
+author_profile: true
 ---
 
-Hello World
+Hello world
