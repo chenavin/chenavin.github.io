@@ -5,7 +5,7 @@ title: ""
 permalink: /publications
 ---
 
-# Publications
+## Publications sub title
 
 Hello word
 
