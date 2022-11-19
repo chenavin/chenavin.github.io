@@ -112,9 +112,8 @@ author:
   email            : 
   links:
     - label: "08-6428071"
-      icon: "fas fa-fw fa-phone"
+      icon: "fab fa-fw fa-phone"
       # url: "callto:086428071"
-    <i class="fa-solid fa-phone"></i>
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:avin@bgu.com"
