@@ -3,4 +3,4 @@ layout: single
 author_profile: true
 ---
 
-Hello world
+Hello new world
