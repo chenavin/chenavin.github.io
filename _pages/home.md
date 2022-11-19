@@ -1,6 +1,7 @@
 ---
 layout: single
 author_profile: true
+permalink: /home
 ---
 
 Hello new world
