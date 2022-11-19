@@ -4,4 +4,8 @@ author_profile: true
 permalink: /publications
 ---
 
-Hello new world
+# Publications
+---
+
+* Chen Avin
+* bla bla
