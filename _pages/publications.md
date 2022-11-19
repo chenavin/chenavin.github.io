@@ -5,7 +5,6 @@ permalink: /publications
 ---
 
 # Publications
----
 
 * Chen Avin
 * bla bla
