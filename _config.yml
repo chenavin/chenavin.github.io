@@ -130,7 +130,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "LinkedIn"
-      icon: "fa-brands fa-linkedin"
+      icon: "fab fa-fw fa-instagram"
       url: "https://linkedin.com/chen-avin-4408031"
 
 # Site Footer
