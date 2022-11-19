@@ -1,6 +1,7 @@
 ---
 layout: single
 author_profile: true
+title: ""
 permalink: /publications
 ---
 
@@ -10,6 +11,8 @@ Hello word
 
 * Chen Avin
 * bla bla
+
+## Publications2
 
 Hello word
 
