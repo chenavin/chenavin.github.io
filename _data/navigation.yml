@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: index.md
+    url: /index.md
   - title: "Research"
     url: /research/
   - title: "Teaching"
