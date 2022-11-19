@@ -4,15 +4,21 @@ author_profile: true
 permalink: /
 ---
 
-My homepage
+### Short bio
 
 1
 
 2
 
+### Research Intrest
+
 3
 
+### Prospective Students
+
 4
+
+### Education
 
 5
 
@@ -21,6 +27,8 @@ My homepage
 7
 
 8
+
+### Contact Information 
 
 9
 
