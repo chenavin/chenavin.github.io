@@ -5,13 +5,13 @@ title: "Welcome to my homepage"
 permalink: /
 ---
 
-*Short bio:*
+**Short bio:**
 
 1
 
 2
 
-*Research Intrests:*
+**Research Intrests:**
 
 3
 
