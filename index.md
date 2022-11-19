@@ -1,6 +1,7 @@
 ---
 layout: single
 author_profile: true
+title: ""
 permalink: /
 ---
 
@@ -10,7 +11,7 @@ permalink: /
 
 2
 
-### Research Intrest
+### Research Intrests
 
 3
 
