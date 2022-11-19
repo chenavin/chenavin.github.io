@@ -4,7 +4,7 @@ author_profile: true
 permalink: /publications
 ---
 
-# Publications
+## Publications
 
 * Chen Avin
 * bla bla
