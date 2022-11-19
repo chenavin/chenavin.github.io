@@ -133,7 +133,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/chen-avin-4408031"
     - label: "Scholar"
-      icon: "/assets/images/scholar.jpg"
+      icon: "fab fa-fw fa-google"
       url: "https://scholar.google.co.il/citations?user=n8JGcgQAAAAJ&hl=en&oi=ao"
 
 # Site Footer
