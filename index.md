@@ -15,7 +15,7 @@ permalink: /
 
 3
 
-*Prospective Students:* 
+**Prospective Students:** 
 
 4
 
