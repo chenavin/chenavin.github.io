@@ -1,21 +1,21 @@
 ---
 layout: single
 author_profile: true
-title: ""
+title: "Welcome to my homepage"
 permalink: /
 ---
 
-### Short bio
+*Short bio:*
 
 1
 
 2
 
-### Research Intrests
+*Research Intrests:*
 
 3
 
-### Prospective Students
+*Prospective Students:* 
 
 4
 
