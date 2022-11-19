@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Prof. Chen Avin"
   avatar           : "/assets/images/chen.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "[School of Electrical and <br/> Computer Enginnering](http://www.ece.bgu.ac.il) <br/> <br/>"
-                     "[Ben Gurion University <br/> of the Negev](http://www.bgu.ac.il)"                  
+  bio              : "[School of Electrical and <br/> Computer Enginnering](http://www.ece.bgu.ac.il) <br/> <br/>
+                     [Ben Gurion University <br/> of the Negev](http://www.bgu.ac.il)"                  
   location         : "Beer-Sheva, Israel."
   email            : 
   links:
@@ -130,7 +130,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/chen-avin-4408031"
 
 # Site Footer
