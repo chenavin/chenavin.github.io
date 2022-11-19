@@ -106,14 +106,15 @@ analytics:
 author:
   name             : "Chen Avin"
   avatar           : "/assets/images/chen.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "[Ben Gurion University <br/> of the Negev](https://www.bgu.ac.il) <br/>
-                      [School of Electrical <br/> and Computer Enginnering](https://www.ece.bgu.ac.il) "
-  location         : "Beer-Sheva"
+  bio              : "[Ben Gurion University <br/> of the Negev](https://www.bgu.ac.il) <br/> 
+                      ---
+                     [School of Electrical <br/> and Computer Enginnering](https://www.ece.bgu.ac.il) "
+  location         : "Beer-Sheva, Israel."
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:your.name@email.com"
+      url: "mailto:avin@bgu.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
