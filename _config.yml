@@ -109,12 +109,12 @@ author:
   bio              : "[School of Electrical and <br/> Computer Enginnering](http://www.ece.bgu.ac.il) <br/> <br/>
                      [Ben Gurion University <br/> of the Negev](http://www.bgu.ac.il)"                  
   location         : "Bulding 37, Room 416. <br/> &nbsp &nbsp &nbsp Beer-Sheva, Israel."
-  email            : "avin@bgu.ac.il"
+  # email            : 
   links:
     - label: "08-6428071"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-phone"
       #icon: "fab fa-fw fa-phone"
-      # url: "callto:086428071"
+      url: "callto:086428071"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:avin@bgu.com"
