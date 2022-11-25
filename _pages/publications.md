@@ -13,14 +13,19 @@ permalink: /publications
 | **ACM  SIGMETRICS**  |2022| C. Griner, J. Zerwas, A. Blenk, M. Ghobadi, S. Schmid, and C. Avin, <br/> [Cerberus: The power of choices in datacenter topology design-a throughput perspective](https://doi.org/10.1145/3491050)|
 | **IEEE INFOCOM**     |2022| R. Segal, C. Avin, and G. Scalosub. <br/> [Constrained In-network Computing with Low Congestion in Datacenter Networks](https://doi.org/10.1109/INFOCOM48880.2022.9796980)|
 | **ACM  SIGMETRICS**  |2020| C. Avin, M. Ghobadi, C. Griner, and S. Schmid, <br/> [On the complexity of traffic traces and implications](https://doi.org/10.1145/3393691.3394205)|
-| **Rand. Struc. & Algo.** |2018| C. Avin, M. Koucky`, and Z. Lotker, <br/> [Cover time and mixing time of random walks on dynamic graphs](https://doi.org/10.1002/rsa.20752)|
+| **Rand. Struc. & Alg.** |2018| C. Avin, M. Koucky`, and Z. Lotker, <br/> [Cover time and mixing time of random walks on dynamic graphs](https://doi.org/10.1002/rsa.20752)|
 | **PloS one** |2018| C. Avin, Z. Lotker, D. Peleg, Y.-A. Pignolet, and I. Turkel, <br/>  [Elites in social networks: An axiomatic approach to power balance and price’s square root law](https://doi.org/10.1371/journal.pone.0205820)|
 | **ACM  CCR**  |2018| C. Avin and S. Schmid, <br/> [Toward demand-aware networking: A theory for self-adjusting networks[(https://doi.org/10.1145/3310165.3310170)|
 | **WWW**  |2018| C. Avin, A. Cohen, P. Fraigniaud, Z. Lotker, and D. Peleg, <br/> [Preferential attachment as a unique equilibrium](https://doi.org/10.1145/3178876.3186122)|
 | **KDD**  |2017| C. Avin, Z. Lotker, Y. Nahum, and D. Peleg, <br/> [Improved degree bounds and full spectrum power laws in preferential attachment networks](https://doi.org/10.1145/3097983.3098012)| 
 | **ITCS**  |2015| C. Avin, B. Keller, Z. Lotker, C. Mathieu, D. Peleg, and Y.-A. Pignolet, <br/>  [Homophily and the glass ceiling effect in social # networks](https://doi.org/10.1145/2688073.2688097)|
-
-
+| **IEEE/ACM ToN**  |2015| S. Schmid, C. Avin, C. Scheideler, M. Borokhovich, B. Haeupler, and Z. Lotker, <br/>  [Splaynet: Towards locally self-adjusting networks](https://doi.org/10.1109/TNET.2015.2410313)|
+| **J. of ACM**  |2012| C. Avin, Y. Emek, E. Kantor, Z. Lotker, D. Peleg, and L. Roditty, <br/> [SINR diagrams: Convexity and its applications in wireless networks](https://doi.org/10.1145/2339123.2339125)|
+| **Comb. Prob. & Comput.** |2011| N. Alon, C. Avin, M. Koucky, G. Kozma, Z. Lotker, and M. R. Tuttle, <br/> [Many random walks are faster than one](https://doi.org/10.1017/S0963548311000125)|
+| **Theo. Compu. Sci.** <br/>(ICALP-05) |2011|C. Avin and G. Ercal, <br/> [On the cover time and mixing time of random geometric graphs](https://doi.org/10.1016/j.tcs.2007.02.065)|
+| **IJCAI**  |2005| C. Avin, I. Shpitser, and J. Pearl, <br/> [Identifiability of path specific effects](https://dl.acm.org/doi/10.5555/1642293.1642350)|
+ 
+ 
  
 
 ### Full list
