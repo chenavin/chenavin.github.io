@@ -14,6 +14,16 @@ permalink: /publications
 | **IEEE INFOCOM**     |2022| R. Segal, C. Avin, and G. Scalosub. <br/> [Constrained In-network Computing with Low Congestion in Datacenter Networks](https://doi.org/10.1109/INFOCOM48880.2022.9796980)
 | **ACM  SIGMETRICS**  |2020| C. Avin, M. Ghobadi, C. Griner, and S. Schmid, <br/> [On the complexity of traffic traces and implications](https://doi.org/10.1145/3393691.3394205)
 
+* C. Avin, M. Koucky`, and Z. Lotker, “Cover time and mixing time of random walks on dynamic graphs,” Random Structures & Algorithms, vol. 52, no. 4, pp. 576–596, 2018. [J29]
+* C. Avin, Z. Lotker, D. Peleg, Y.-A. Pignolet, and I. Turkel, “Elites in social networks: An axiomatic approach to power balance and price’s square root law,” PloS one, vol. 13, no. 10, p. e0205820, 2018. [J27]
+* C. Avin and S. Schmid, “Toward demand-aware networking: A theory for self-adjusting networks,” ACM SIGCOMM Computer Communication Review (CCR), vol. 48, no. 5, pp. 31–40, 2018. [J26]
+* C. Avin, A. Cohen, P. Fraigniaud, Z. Lotker, and D. Peleg, “Preferential attachment as a unique equilibrium,” in Proceedings of the 2018 World Wide Web Conference (WWW), pp. 559–568, 2018. [C49]
+* C. Avin, A. Cohen, P. Fraigniaud, Z. Lotker, and D. Peleg, “Preferential attachment as a unique equilibrium,” in Proceedings of the 2018 World Wide Web Conference (WWW), pp. 559–568, 2018. [C49]
+* C. Avin, Z. Lotker, Y. Nahum, and D. Peleg, “Improved degree bounds and full spectrum power laws in preferential attachment networks,” in Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), pp. 45–53, 2017. [C45]
+* C. Avin, B. Keller, Z. Lotker, C. Mathieu, D. Peleg, and Y.-A. Pignolet, “Homophily and the glass ceiling effect in social networks,” in Proceedings of the 2015 conference on innovations in theoretical computer science (ITCS), pp. 41–50, 2015. [C36]
+* S. Schmid, C. Avin, C. Scheideler, M. Borokhovich, B. Haeupler, and Z. Lotker, “Splaynet: Towards locally self-adjusting networks,” IEEE/ACM Transactions on Networking, vol. 24, no. 3, pp. 1421–1433, 2015. [J20]
+* C. Avin, Y. Emek, E. Kantor, Z. Lotker, D. Peleg, and L. Roditty, “SINR diagrams: Convexity and its applications in wireless networks,” Journal of the ACM (JACM), vol. 59, no. 4, pp. 1–34, 2012. [J12]
+* N. Alon, C. Avin, M. Koucky, G. Kozma, Z. Lotker, and M. R. Tuttle, “Many random walks are faster than one,” Combinatorics, Probability & Computing, 20(4): 481-502, 2011. [J9]
  
 
 ### Full list
@@ -24,7 +34,7 @@ permalink: /publications
 * C. Griner, S. Schmid, and C. Avin, “Cachenet: Leveraging the principle of locality in reconfigurable network design,” Computer Networks, vol. 204, p. 108648, 2022 [J36]
 * C. Avin, A. Cohen, Z. Lotker, and D. Peleg, “Hotelling games in fault-prone settings,” Theoretical Computer Science, 2022. [J35]
 * C. Griner, J. Zerwas, A. Blenk, M. Ghobadi, S. Schmid, and C. Avin, “Cerberus: The power of choices in datacenter topology design-a throughput perspective,” Proceedings of the ACM on Measurement and Analysis of Computing Systems (Sigmetrics), vol. 5, no. 3, pp. 1–33, 2021. [C66]
-* J. Zerwas, C. Avin, S. Schmid, and A. Blenk, “Exrec: Experimental framework for reconfigurable net- works based on off-the-shelf hardware,” in Proceedings of the Symposium on Architectures for Networking and Communications Systems (ANCS), pp. 66–72, 2021. [C65]
+* J. Zerwas, C. Avin, S. Schmid, and A. Blenk, “Exrec: Experimental framework for reconfigurable networks based on off-the-shelf hardware,” in Proceedings of the Symposium on Architectures for Networking and Communications Systems (ANCS), pp. 66–72, 2021. [C65]
 * R. Segal, C. Avin, and G. Scalosub, “SOAR: minimizing network utilization with bounded in-network computing,” in Proceedings of the 17th International Conference on emerging Networking EXperiments and Technologies (CoNext), pp. 16–29, 2021. [C64]
 * C. Griner, and C. Avin, “Cachenet: Leveraging the principle of locality in reconfigurable network design,” In IFIP Networking, pp 1–3. 2021. [C63]
 * C. Avin and S. Schmid, “Renets: Statically-optimal demand-aware networks,” in Symposium on Algorithmic Principles of Computer Systems (APOCS), pp. 25–39, 2021. [C62]
@@ -83,7 +93,7 @@ permalink: /publications
 * C. Avin, M. Borokhovich, and S. Schmid, “Obst: A self-adjusting peer-to-peer overlay based on multiple bsts,” in IEEE P2P 2013, pp. 1–5, IEEE, 2013. [C31]
 * C. Avin, M. Borokhovich, K. Censor-Hillel, and Z. Lotker, “Order optimal information spreading using algebraic gossip,” Distributed Computing, 26(2):99–117, 2013. [J14]
 * C. Avin, B. Haeupler, Z. Lotker, C. Scheideler, and S. Schmid, “Locally self-adjusting tree networks,” in 2013 IEEE 27th International Symposium on Parallel and Distributed Processing (IPDPS), pp. 395–406, IEEE, 2013. [C30]
-* C. Avin, M. Borokhovich, Y. Haddad, E. Kantor, Z. Lotker, M. Parter, and D. Peleg, “Generalized perron–frobenius theorem for multiple choice matrices, and applications,” in Proceedings of the twenty- fourth annual ACM-SIAM symposium on Discrete algorithms (SODA), pp. 478–497, 2013. [C29]
+* C. Avin, M. Borokhovich, Y. Haddad, E. Kantor, Z. Lotker, M. Parter, and D. Peleg, “Generalized perron–frobenius theorem for multiple choice matrices, and applications,” in Proceedings of the twenty-fourth annual ACM-SIAM symposium on Discrete algorithms (SODA), pp. 478–497, 2013. [C29]
 * E. Dror, C. Avin, and Z. Lotker, “Fast randomized algorithm for 2-hops clustering in vehicular ad-hoc networks,” Ad Hoc Networks, vol. 11, no. 7, pp. 2002–2015, 2013. [J13]
 * C. Avin, Y. Emek, E. Kantor, Z. Lotker, D. Peleg, and L. Roditty, “SINR diagrams: Convexity and its applications in wireless networks,” Journal of the ACM (JACM), vol. 59, no. 4, pp. 1–34, 2012. [J12]
 * C. Avin, Z. Lotker, F. Pasquale, and Y.-A. Pignolet, “A note on uniform power connectivity in the physical signal to interference plus noise (sinr) model,” Theoretical Computer Science, vol. 453, pp. 2– 13, 2012. [J11]
