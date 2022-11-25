@@ -13,10 +13,6 @@ permalink: /publications
 
 | **ACM  SIGMETRICS**  |2022| C. Griner, J. Zerwas, A. Blenk, M. Ghobadi, S. Schmid, and C. Avin, <br/> [Cerberus: The power of choices in datacenter topology design-a throughput perspective](https://doi.org/10.1145/3491050)|
 
-| **IEEE INFOCOM**     |2022| R. Segal, C. Avin, and G. Scalosub. <br/> [Constrained In-network Computing with Low Congestion in Datacenter Networks](https://doi.org/10.1109/INFOCOM48880.2022.9796980)|
-
-| **ACM  SIGMETRICS**  |2020| C. Avin, M. Ghobadi, C. Griner, and S. Schmid, <br/> [On the complexity of traffic traces and implications](https://doi.org/10.1145/3393691.3394205)|
-
  
 
 ### Full list
@@ -133,7 +129,7 @@ symposium on parallelism in algorithms and architectures (SPAA), pp. 119–128, 
 
 ### Publications by topics
 
-### Publications by type
+### Publications by type [[Journals](#journals)][[Confrences](#Confrences)]
 
 #### Journals 
 
