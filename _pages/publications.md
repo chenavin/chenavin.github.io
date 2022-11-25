@@ -137,7 +137,8 @@ symposium on parallelism in algorithms and architectures (SPAA), pp. 119–128, 
 
 ### Publications by topics
 
-### Publications by type [[Journals](#journals)][[Confrences](#Confrences)]
+### Publications by type 
+[[Journals](#journals)][[Conferences](#conferences)]
 
 #### Journals 
 
@@ -180,7 +181,7 @@ symposium on parallelism in algorithms and architectures (SPAA), pp. 119–128, 
 * C. Avin and G. Ercal, “On the cover time and mixing time of random geometric graphs,” Theoretical Computer Science, vol. 380, no. 1-2, pp. 2–22, 2007. [J2]
 * C. Avin and R. Ben-Eliyahu-Zohary, “An upper bound on computing all x-minimal models,” AI Communications, vol. 20, no. 2, pp. 87–92, 2007. [J1]
 
-#### Confrences 
+#### Conferences 
 
 * R. Segal, C. Avin, and G. Scalosub. "Constrained In-network Computing with Low Congestion in Datacenter Networks". in IEEE Conference on Computer Communications (INFOCOM), pp. 1639-1648, 2022. [C67]
 * C. Griner, J. Zerwas, A. Blenk, M. Ghobadi, S. Schmid, and C. Avin, “Cerberus: The power of choices in datacenter topology design-a throughput perspective,” Proceedings of the ACM on Measurement and Analysis of Computing Systems (Sigmetrics), vol. 5, no. 3, pp. 1–33, 2021. [C66]
