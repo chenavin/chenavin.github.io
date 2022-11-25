@@ -9,8 +9,9 @@ permalink: /publications
 
 ### Selected Publications
 
-| **IEEE/ACM ToN 2022** | C. Avin, K. Mondal, and S. Schmid. Demand-aware network design with minimal congestion and route length | 
-| **ACM  SIGMETRICS**   | C. Griner, J. Zerwas, A. Blenk, M. Ghobadi, S. Schmid, and C. Avin. Cerberus: The power of choices in datacenter topology design-a throughput perspective |
+| **IEEE/ACM ToN 2022** | C. Avin, K. Mondal, and S. Schmid. Demand-aware network design with minimal congestion and route length|
+|---|---|
+| **ACM  SIGMETRICS**   | * C. Griner, J. Zerwas, A. Blenk, M. Ghobadi, S. Schmid, and C. Avin. Cerberus: The power of choices in datacenter topology design-a throughput perspective |
 
 
 ### Full list
