@@ -108,8 +108,6 @@ author:
   avatar           : "/assets/images/chen.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "[School of Electrical and <br/> Computer Enginnering](https://in.bgu.ac.il/engn/ece) <br/> <br/>
                      [Ben Gurion University <br/> of the Negev](http://www.bgu.ac.il)"    
-  text             : "bla bla"
-  text             : "text line 2"
   location         : "Bulding 37, Room 416. <br/> &nbsp &nbsp &nbsp Beer-Sheva, Israel."
   # email            : 
   links:
@@ -117,7 +115,7 @@ author:
       icon: "fas fa-fw fa-phone"
       #icon: "fab fa-fw fa-phone"
       url: "callto:086428071"
-    - label: "![/assets/images/just-logo.png]"
+    - label: "![Email](/assets/images/just-logo.png])"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:avin@bgu.ac.il"
     - label: "Website"
