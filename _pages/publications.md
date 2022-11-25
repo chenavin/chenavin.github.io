@@ -17,7 +17,7 @@ permalink: /publications
 
 | **ACM  SIGMETRICS**  |2020| C. Avin, M. Ghobadi, C. Griner, and S. Schmid, <br/> [On the complexity of traffic traces and implications](https://doi.org/10.1145/3393691.3394205)|
 
-| **Rand. Struc. & Algo.** <br/> (ICALP-08) |2018| C. Avin, M. Koucky`, and Z. Lotker, <br/> [Cover time and mixing time of random walks on dynamic graphs](https://doi.org/10.1002/rsa.20752)|
+| **Rand. Struc. & Algo.** |2018| C. Avin, M. Koucky`, and Z. Lotker, <br/> [Cover time and mixing time of random walks on dynamic graphs](https://doi.org/10.1002/rsa.20752)|
 
 | **PloS one** |2018| C. Avin, Z. Lotker, D. Peleg, Y.-A. Pignolet, and I. Turkel, <br/>  [Elites in social networks: An axiomatic approach to power balance and price’s square root law](https://doi.org/10.1371/journal.pone.0205820)|
 
