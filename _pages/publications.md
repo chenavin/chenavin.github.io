@@ -26,6 +26,8 @@ permalink: /publications
 | **IJCAI**  |2005| C. Avin, I. Shpitser, and J. Pearl, <br/> [Identifiability of path specific effects](https://dl.acm.org/doi/10.5555/1642293.1642350)|
  
  
+ 
+ 
  ### Full list
 
 * C. Avin, K. Mondal, and S. Schmid, "Push-Down Trees: Optimal Self- Adjusting Complete Trees," IEEE/ACM Transactions on Networking, 2022. [J38]
