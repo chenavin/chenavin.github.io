@@ -9,10 +9,10 @@ permalink: /publications
 
 ### Selected Publications
 
-| **IEEE/ACM ToN 2022** | C. Avin, K. Mondal, and S. Schmid. <br/> Demand-aware network design with minimal congestion and route length|
-| **ACM  SIGMETRICS 2022**   | C. Griner, J. Zerwas, A. Blenk, M. Ghobadi, S. Schmid, and C. Avin. <br/> Cerberus: The power of choices in datacenter topology design-a throughput perspective |
-| **IEEE INFOCOM 2022** | R. Segal, C. Avin, and G. Scalosub. <br/> Constrained In-network Computing with Low Congestion in Datacenter Networks
-| **ACM  SIGMETRICS 2020**   | C. Avin, M. Ghobadi, C. Griner, and S. Schmid, <br/> On the complexity of traffic traces and implications
+| **IEEE/ACM ToN**     |2022| C. Avin, K. Mondal, and S. Schmid. <br/> [Demand-aware network design with minimal congestion and route length](https://doi.org/10.1109/INFOCOM.2019.8737431)|
+| **ACM  SIGMETRICS**  |2022| C. Griner, J. Zerwas, A. Blenk, M. Ghobadi, S. Schmid, and C. Avin. <br/> [Cerberus: The power of choices in datacenter topology design-a throughput perspective](https://doi.org/10.1145/3491050)|
+| **IEEE INFOCOM**     |2022| R. Segal, C. Avin, and G. Scalosub. <br/> [Constrained In-network Computing with Low Congestion in Datacenter Networks](https://doi.org/10.1109/INFOCOM48880.2022.9796980)
+| **ACM  SIGMETRICS**  |2020| C. Avin, M. Ghobadi, C. Griner, and S. Schmid, <br/> [On the complexity of traffic traces and implications](https://doi.org/10.1145/3393691.3394205)
 
  
 
