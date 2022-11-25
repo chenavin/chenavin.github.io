@@ -9,13 +9,13 @@ permalink: /publications
 
 ### Selected Publications
 
-| **IEEE/ACM ToN**     |2022| C. Avin, K. Mondal, and S. Schmid. <br/> [Demand-aware network design with minimal congestion and route length](https://doi.org/10.1109/INFOCOM.2019.8737431)|
-| **ACM  SIGMETRICS**  |2022| C. Griner, J. Zerwas, A. Blenk, M. Ghobadi, S. Schmid, and C. Avin. <br/> [Cerberus: The power of choices in datacenter topology design-a throughput perspective](https://doi.org/10.1145/3491050)|
+| **IEEE/ACM ToN**     |2022| C. Avin, K. Mondal, and S. Schmid, <br/> [Demand-aware network design with minimal congestion and route length](https://doi.org/10.1109/INFOCOM.2019.8737431)|
+| **ACM  SIGMETRICS**  |2022| C. Griner, J. Zerwas, A. Blenk, M. Ghobadi, S. Schmid, and C. Avin, <br/> [Cerberus: The power of choices in datacenter topology design-a throughput perspective](https://doi.org/10.1145/3491050)|
 | **IEEE INFOCOM**     |2022| R. Segal, C. Avin, and G. Scalosub. <br/> [Constrained In-network Computing with Low Congestion in Datacenter Networks](https://doi.org/10.1109/INFOCOM48880.2022.9796980)
 | **ACM  SIGMETRICS**  |2020| C. Avin, M. Ghobadi, C. Griner, and S. Schmid, <br/> [On the complexity of traffic traces and implications](https://doi.org/10.1145/3393691.3394205)
+| **Rand. Struc. & Algo.** <br/> (ICALP-08) |2018| C. Avin, M. Koucky`, and Z. Lotker, <br/> [Cover time and mixing time of random walks on dynamic graphs](https://doi.org/10.1002/rsa.20752)|
+| **PloS one** |2018| C. Avin, Z. Lotker, D. Peleg, Y.-A. Pignolet, and I. Turkel, <br/>  [Elites in social networks: An axiomatic approach to power balance and price’s square root law](https://doi.org/10.1371/journal.pone.0205820)|
 
-* C. Avin, M. Koucky`, and Z. Lotker, “Cover time and mixing time of random walks on dynamic graphs,” Random Structures & Algorithms, vol. 52, no. 4, pp. 576–596, 2018. [J29]
-* C. Avin, Z. Lotker, D. Peleg, Y.-A. Pignolet, and I. Turkel, “Elites in social networks: An axiomatic approach to power balance and price’s square root law,” PloS one, vol. 13, no. 10, p. e0205820, 2018. [J27]
 * C. Avin and S. Schmid, “Toward demand-aware networking: A theory for self-adjusting networks,” ACM SIGCOMM Computer Communication Review (CCR), vol. 48, no. 5, pp. 31–40, 2018. [J26]
 * C. Avin, A. Cohen, P. Fraigniaud, Z. Lotker, and D. Peleg, “Preferential attachment as a unique equilibrium,” in Proceedings of the 2018 World Wide Web Conference (WWW), pp. 559–568, 2018. [C49]
 * C. Avin, A. Cohen, P. Fraigniaud, Z. Lotker, and D. Peleg, “Preferential attachment as a unique equilibrium,” in Proceedings of the 2018 World Wide Web Conference (WWW), pp. 559–568, 2018. [C49]
