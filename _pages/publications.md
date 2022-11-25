@@ -5,7 +5,7 @@ title: "Publications"
 permalink: /publications
 ---
 
-[selected publication] [publications by topics] [publications by type] [full list]
+[selected publication] [[full list](#full-list)][publications by topics] [publications by type] 
 
 ### Selected Publications
 
