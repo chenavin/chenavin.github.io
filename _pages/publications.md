@@ -9,53 +9,12 @@ permalink: /publications
 
 ### Selected Publications
 
-| **IEEE/ACM ToN 2022** | C. Avin, K. Mondal, and S. Schmid. Demand-aware network design with minimal congestion and route length|
-|---|---|
-| **ACM  SIGMETRICS**   | * C. Griner, J. Zerwas, A. Blenk, M. Ghobadi, S. Schmid, and C. Avin. Cerberus: The power of choices in datacenter topology design-a throughput perspective |
+| **IEEE/ACM ToN 2022** | C. Avin, K. Mondal, and S. Schmid. <br/> Demand-aware network design with minimal congestion and route length|
+| **ACM  SIGMETRICS 2022**   | C. Griner, J. Zerwas, A. Blenk, M. Ghobadi, S. Schmid, and C. Avin. <br/> Cerberus: The power of choices in datacenter topology design-a throughput perspective |
+| **IEEE INFOCOM 2022** | R. Segal, C. Avin, and G. Scalosub. <br/> Constrained In-network Computing with Low Congestion in Datacenter Networks
+| **ACM  SIGMETRICS 2020**   | C. Avin, M. Ghobadi, C. Griner, and S. Schmid, <br/> On the complexity of traffic traces and implications
 
-        <p style="padding-left: 160px; margin: 0px;">A. Sanaee, F. Shahinfar, G. Antichi, B.E. Stephens
-        <br/><p style="margin: 0px; display:inline"><b>USENIX NSDI 2022</b><p style="padding-left: 35px; margin: 0px; display:inline">Backdraft: a Lossless Virtual Switch that Prevents the Slow Receiver Problem
-        <br/><p style="padding-left: 160px;"><span class="label label-primary"><a href="https://www.usenix.org/system/files/nsdi22-paper-sanaee.pdf">PDF</a></span>
-                                        <span class="label label-primary"><a href="https://www.youtube.com/watch?v=ovUH3Yjl37o">Video</a></span></p>
-        <p style="padding-left: 160px; margin: 0px;">T. Wang, X. Yang, G. Antichi, A. Sivaraman, A. Panda
-        <br/><p style="margin: 0px; display:inline"><b>USENIX NSDI 2022</b><p style="padding-left: 35px; margin: 0px; display:inline">Isolation Mechanisms for High-Speed Packet-Processing Pipelines
-        <br/><p style="padding-left: 160px;"><span class="label label-primary"><a href="https://www.usenix.org/system/files/nsdi22-paper-wang_tao.pdf">PDF</a></span>
-                                        <span class="label label-primary"><a href="https://youtu.be/3gZXZ47PtBg">Video</a></span></p>
-        <p style="padding-left: 160px; margin: 0px;">G. Siracusano, S. Galea, D. Sanvito, M. Malekzadeh, G. Antichi, P. Costa, H. Haddadi, R. Bifulco
-        <br/><p style="margin: 0px; display:inline"><b>USENIX NSDI 2022</b><p style="padding-left: 35px; margin: 0px; display:inline">Re-architecting Traffic Analysis with Neural Network Interface Cards
-        <br/><p style="padding-left: 160px;"><span class="label label-primary"><a href="https://www.usenix.org/system/files/nsdi22-paper-siracusano.pdf">PDF</a></span>
-                                        <span class="label label-primary"><a href="https://youtu.be/FAswV5tD_RU">Video</a></span></p>
-        <p style="padding-left: 160px; margin: 0px;">S. Miano, A. Sanaee, F. Risso, G. Rétvári, G. Antichi
-        <br/><p style="margin: 0px; display:inline"><b>ACM ASPLOS 2022</b><p style="padding-left: 33px; margin: 0px; display:inline">Domain Specific Run Time Optimization for Software Data Planes
-        <br/><p style="padding-left: 160px;"><span class="label label-primary"><a href="https://dl.acm.org/doi/10.1145/3503222.3507769">PDF</a></span>
-	<p style="padding-left: 160px; margin: 0px;">W. Tu, Y. Wei, G. Antichi, B. Pfaff
-	<br/><p style="margin: 0px; display:inline"><b>ACM SIGCOMM 2021</b><p style="padding-left: 18px; margin: 0px; display:inline">Revisiting the Open vSwitch Dataplane Ten Years Later
-	<br/><p style="padding-left: 160px;"><span class="label label-primary"><a href="https://dl.acm.org/doi/10.1145/3452296.3472914">PDF</a></span>
-                                	<span class="label label-primary"><a href="https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3452296.3472914&file=video-presentation.mp4">Video</a></span></p>
-        <p style="padding-left: 160px; margin: 0px;">J. Kučera, R. Ben Basat, M. Kuka, G. Antichi, M. Yu, M. Mitzenmacher
-        <br/><p style="margin: 0px; display:inline"><b>ACM CoNEXT 2020</b><p style="padding-left: 32px; margin: 0px; display:inline">Detecting Routing Loops in the Data Plane
-        <br/><p style="padding-left: 160px;"><span class="label label-primary"><a href="https://dl.acm.org/doi/10.1145/3386367.3431303">PDF</a></span>
-                                        <span class="label label-primary"><a href="https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3386367.3431303&file=3386367.3431303.mp4">Video</a></span></p>
-        <p style="padding-left: 160px; margin: 0px;">R. Ben Basat, S. Ramanathan, Y. Li, G. Antichi, M. Yu, M. Mitzenmacher
-        <br/><p style="margin: 0px; display:inline"><b>ACM SIGCOMM 2020</b><p style="padding-left: 18px; margin: 0px; display:inline">PINT: Probabilistic In-band Network Telemetry
-        <br/><p style="padding-left: 160px;"><span class="label label-primary"><a href="https://dl.acm.org/doi/10.1145/3387514.3405894">PDF</a></span>
-                                        <span class="label label-primary"><a href="https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3387514.3405894&file=3387514.3405894.mp4">Video</a></span></p>
-        <p style="padding-left: 160px; margin: 0px;">M. Chiesa, R. Sedar, G. Antichi, M. Borokhovich, A. Kamisinski, G. Nikolaidis, S. Schmid
-        <br/><p style="margin: 0px; display:inline"><b>ACM CoNEXT 2019</b><p style="padding-left: 32px; margin: 0px; display:inline">PURR: A Primitive for Reconfigurable Fast Reroute
-        <br/><p style="padding-left: 160px;"><span class="label label-primary"><a href="https://dl.acm.org/doi/10.1145/3359989.3365410">PDF</a></span>
-                                        <span class="label label-primary"><a href="files/presentations/purr-conext.pptx">Slides</a></span></p>
-        <p style="padding-left: 160px; margin: 0px;">T. Boettger, F. Cuadrado, G. Antichi, E. Fernandes, G. Tyson, I. Castro, S. Uhlig
-        <br/><p style="margin: 0px; display:inline"><b>ACM IMC 2019</b><p style="padding-left: 62px; margin: 0px; display:inline">An Empirical Study of the Cost of DNS-over-HTTPs
-        <br/><p style="padding-left: 160px;"><span class="label label-primary"><a href="https://dl.acm.org/doi/10.1145/3355369.3355575">PDF</a></span></p>
-
-        <p style="padding-left: 160px; margin: 0px;">R. Neugebauer, G. Antichi, J.F. Zazo, Y. Audzevich, S. López-Buedo, A.W. Moore
-        <br/><p style="margin: 0px; display:inline"><b>ACM SIGCOMM 2018</b><p style="padding-left: 18px; margin: 0px; display:inline">Understanding PCIe performance for end host networking
-        <br/><p style="padding-left: 160px;"><span class="label label-primary"><a href="https://dl.acm.org/doi/10.1145/3230543.3230560">PDF</a></span>
-            				<span class="label label-primary"><a href="https://youtu.be/AQd16l9kmYM?t=3185">Video</a></span></p>
-        <p style="padding-left: 160px; margin: 0px;">M. Handley, C. Raiciu, A. Agache, A. Voinescu, A.W. Moore, G. Antichi, M. Wójcik
-        <br/><p style="margin: 0px; display:inline"><b>ACM SIGCOMM 2017</b><p style="padding-left: 18px; margin: 0px; display:inline">Re-architecting datacenter networks and stacks for low latency and high performance
-	<br/><p style="margin: 0px; display:inline"><font color="FF0000"><b>BEST PAPER AWARD</b></font><p style="padding-left: 18px; margin: 0px; display:inline"><span class="label label-primary"><a href="https://dl.acm.org/doi/10.1145/3098822.3098825">PDF</a></span>
-            				<span class="label label-primary"><a href="https://dl.acm.org/ft_gateway.cfm?id=3098825&ftid=1905378">Video</a></span></p> 
+ 
 
 ### Full list
 
@@ -71,7 +30,7 @@ permalink: /publications
 * C. Avin and S. Schmid, “Renets: Statically-optimal demand-aware networks,” in Symposium on Algorithmic Principles of Computer Systems (APOCS), pp. 25–39, 2021. [C62]
 * C. Avin and Y. Lotker, “De-evolution of preferential attachment trees,” in International Conference on Complex Networks and Their Applications, pp. 508–519. 2021. [C61]
 * B. Peres, O. A. de Oliveira Souza, O. Goussevskaya, C. Avin, and S. Schmid, “Distributed self-adjusting tree networks,” IEEE Transactions on Cloud Computing, 2021. [J34]
-* C. Avin, H. Daltrophe, B. Keller, Z. Lotker, C. Mathieu, D. Peleg, and Y.-A. Pignolet, “Mixed preferen- tial attachment model: Homophily and minorities in social networks,” Physica A: Statistical Mechanics and its Applications, vol. 555, p. 124723, 2020. [J33]
+* C. Avin, H. Daltrophe, B. Keller, Z. Lotker, C. Mathieu, D. Peleg, and Y.-A. Pignolet, “Mixed preferential attachment model: Homophily and minorities in social networks,” Physica A: Statistical Mechanics and its Applications, vol. 555, p. 124723, 2020. [J33]
 * C. Avin, M. Ghobadi, C. Griner, and S. Schmid, “On the complexity of traffic traces and implications,” Proceedings of the ACM on Measurement and Analysis of Computing Systems (Sigmetrics), vol. 4, no. 1, pp. 1–29, 2020. [C60]
 * C. Avin, M. Bienkowski, A. Loukas, M. Pacut, and S. Schmid, “Dynamic balanced graph partitioning,” SIAM Journal on Discrete Mathematics, vol. 34, no. 3, pp. 1791–1812, 2020. [J32]
 * C. Avin, K. Mondal, and S. Schmid, “Demand-aware network designs of bounded degree,” Distributed Computing, vol. 33, no. 3, pp. 311–325, 2020. [J31]
