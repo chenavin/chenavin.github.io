@@ -5,9 +5,12 @@ title: "Publications"
 permalink: /publications
 ---
 
-[selected publication] [[full list](#full-list)][publications by topics] [publications by type] 
+[[selected publication](#selected-publications)] [[full list](#full-list)][[publications by topics](#publications-by-topics)] [[publications by type](#publications-by-type)] 
 
 ### Selected Publications
+
+| **IEEE/ACM ToN 2022** | C. Avin, K. Mondal, and S. Schmid. Demand-aware network design with minimal congestion and route length | 
+| **ACM  SIGMETRICS**   | C. Griner, J. Zerwas, A. Blenk, M. Ghobadi, S. Schmid, and C. Avin. Cerberus: The power of choices in datacenter topology design-a throughput perspective |
 
 
 ### Full list
