@@ -21,11 +21,15 @@ permalink: /publications
 
 | **PloS one** |2018| C. Avin, Z. Lotker, D. Peleg, Y.-A. Pignolet, and I. Turkel, <br/>  [Elites in social networks: An axiomatic approach to power balance and price’s square root law](https://doi.org/10.1371/journal.pone.0205820)|
 
-* C. Avin and S. Schmid, “Toward demand-aware networking: A theory for self-adjusting networks,” ACM SIGCOMM Computer Communication Review (CCR), vol. 48, no. 5, pp. 31–40, 2018. [J26]
-* C. Avin, A. Cohen, P. Fraigniaud, Z. Lotker, and D. Peleg, “Preferential attachment as a unique equilibrium,” in Proceedings of the 2018 World Wide Web Conference (WWW), pp. 559–568, 2018. [C49]
-* C. Avin, A. Cohen, P. Fraigniaud, Z. Lotker, and D. Peleg, “Preferential attachment as a unique equilibrium,” in Proceedings of the 2018 World Wide Web Conference (WWW), pp. 559–568, 2018. [C49]
-* C. Avin, Z. Lotker, Y. Nahum, and D. Peleg, “Improved degree bounds and full spectrum power laws in preferential attachment networks,” in Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), pp. 45–53, 2017. [C45]
-* C. Avin, B. Keller, Z. Lotker, C. Mathieu, D. Peleg, and Y.-A. Pignolet, “Homophily and the glass ceiling effect in social networks,” in Proceedings of the 2015 conference on innovations in theoretical computer science (ITCS), pp. 41–50, 2015. [C36]
+| **ACM  CCR**  |2018| C. Avin and S. Schmid, <br/> [Toward demand-aware networking: A theory for self-adjusting networks[(https://doi.org/10.1145/3310165.3310170)|
+ 
+| **WWW**  |2018| C. Avin, A. Cohen, P. Fraigniaud, Z. Lotker, and D. Peleg, <br/> [Preferential attachment as a unique equilibrium](https://doi.org/10.1145/3178876.3186122)|
+
+| **KDD**  |2017| C. Avin, Z. Lotker, Y. Nahum, and D. Peleg, <br/> [Improved degree bounds and full spectrum power laws in preferential attachment networks](https://doi.org/10.1145/3097983.3098012)| 
+
+| **ITCS**  |2015| C. Avin, B. Keller, Z. Lotker, C. Mathieu, D. Peleg, and Y.-A. Pignolet, <br/>  [Homophily and the glass ceiling effect in social networks](https://doi.org/10.1145/2688073.2688097)|
+
+
 * S. Schmid, C. Avin, C. Scheideler, M. Borokhovich, B. Haeupler, and Z. Lotker, “Splaynet: Towards locally self-adjusting networks,” IEEE/ACM Transactions on Networking, vol. 24, no. 3, pp. 1421–1433, 2015. [J20]
 * C. Avin, Y. Emek, E. Kantor, Z. Lotker, D. Peleg, and L. Roditty, “SINR diagrams: Convexity and its applications in wireless networks,” Journal of the ACM (JACM), vol. 59, no. 4, pp. 1–34, 2012. [J12]
 * N. Alon, C. Avin, M. Koucky, G. Kozma, Z. Lotker, and M. R. Tuttle, “Many random walks are faster than one,” Combinatorics, Probability & Computing, 20(4): 481-502, 2011. [J9]
