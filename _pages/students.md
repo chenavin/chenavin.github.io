@@ -28,4 +28,4 @@ classes: wide
 | [Michael Borokhovich](https://www.linkedin.com/in/michaelbor/){:target="_blank"} | Ms.C | 2010 | Algebraic algorithms for information spreading | Amazon|(with Zvi Lotker)|
 
 
-[1]  Jointly with Gabrieal Scalosub
+[^1]:  Jointly with Gabrieal Scalosub
