@@ -9,6 +9,26 @@ permalink: /students
 * Raz Segal
 * Chen Griner
 
+| Elioz Geler | Ph.D | -- | |
+| Raz Segal | Ph.D | -- | |
+| Chen Grineer | Ph.D | -- | |
+| Or Peres | Ms.C | 2022 | |
+| Raz Segal | Ms.C | 2021 | Network Optimization for Distributed Machine Learning and Big Data |
+| Chen Grineer | Ms.C | 2019 | The Complexity of Traffic Traces and its Application for Network Design |
+| Or Raz | Ms.C | 2019 | NADJ: network-aware and adaptive multiway joins |
+| Michal Vanunu | Ms.C | 2018 | Type Assortativity in Social Networks |
+| Yuri Lotker | Ms.C | 2016 | De-evolution of preferential attachment graphs |
+| Alex Hercules | Ms.C | 2015 | Communication-aware continuous-discrete network design|
+| Yoav Peer | Ms.C | 2013 | Optimization of random peer-to-peer botnet topology |
+| Assaf Mizrachi | Ms.C | 2013 | Majority vote and monopolies in social networks |
+| Liat Amir | Ms.C | 2013 | Core-periphery decomposition in social networks |
+| Assaf Mizrachi | Ms.C | 2013 | Majority vote and monopolies in social networks |
+| Assaf Mizrachi | Ms.C | 2013 | Majority vote and monopolies in social networks |
+| Assaf Mizrachi | Ms.C | 2013 | Majority vote and monopolies in social networks |
+
+
+Algebraic Algorithms for Information Spreading 2014
+
 ! Current MSc. Students
 ----
 * Alexander Gerkules - Self Adjusting Peer-to-Peer networks.   
