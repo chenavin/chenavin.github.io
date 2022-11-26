@@ -9,7 +9,7 @@ classes: wide
 |**Microsoft** | 2022 | Cerberus: The Power of Choices in Datacenter Topology Design -- A Throughput Perspective | Microsoft, Cambridge, UK. (via Zoom) | 
 | **Google** |2021| Cerberus: The Power of Choices in Datacenter Topology Design -- A Throughput Perspective | Google networking seminar, Mountain View, CA. USA. (via Zoom) | 
 | CNA | 2020 | De-evolution of Preferential Attachment Trees | International Conference on Complex Networks and their Applications (Zoom) | 
-| LATIN | 2020 | Dynamically Optimal Self-Adjusting Single-Source Tree Networks | Zoom) | 
+| LATIN | 2020 | Dynamically Optimal Self-Adjusting Single-Source Tree Networks | (via Zoom) | 
 | **INFOCOM** | 2019 | Demand-Aware Network Design with Minimal Congestion and Route Lengths | Paris. France.  **Best In-session award** |
 | Mellanox | 2019 | Toward Demand-Aware Networks: Vision and Algorithms | Mellanox, Yokneam, Israel. | 
 | Cambridge | 2019| Homophily and the Emergence of a Glass Ceiling Effect in Social Networks | University of Cambridge, Cambridge, UK. | 
