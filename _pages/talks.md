@@ -6,8 +6,8 @@ permalink: /talks
 classes: wide
 ---
 
-|**Microsoft** | 2022 | Cerberus: The Power of Choices in Datacenter Topology Design -- <br\> A Throughput Perspective | Microsoft, Cambridge, UK. (via Zoom) | 
-| **Google** |2021| Cerberus: The Power of Choices in Datacenter Topology Design -- <br\> A Throughput Perspective | Google networking seminar, Mountain View, CA. USA. (via Zoom) | 
+|**Microsoft** | 2022 | Cerberus: The Power of Choices in Datacenter Topology Design -- <br/> A Throughput Perspective | Microsoft, Cambridge, UK. (via Zoom) | 
+| **Google** |2021| Cerberus: The Power of Choices in Datacenter Topology Design -- <br/> A Throughput Perspective | Google networking seminar, Mountain View, CA. USA. (via Zoom) | 
 | CNA | 2020 | De-evolution of Preferential Attachment Trees | International Conference on Complex Networks and their Applications (Zoom) | 
 | LATIN | 2020 | Dynamically Optimal Self-Adjusting Single-Source Tree Networks | (via Zoom) | 
 | **Huawei**  | 2019| Toward Demand-Aware Networks Vision and Algorithms | Huawei Vision Forum. London, UK.  **Invited Talk** |
