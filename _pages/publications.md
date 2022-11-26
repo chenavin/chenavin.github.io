@@ -25,11 +25,10 @@ permalink: /publications
 | **Theo. Compu. Sci.** <br/>(ICALP-05) |2011|C. Avin and G. Ercal, <br/> [On the cover time and mixing time of random geometric graphs](https://doi.org/10.1016/j.tcs.2007.02.065)|
 | **IJCAI**  |2005| C. Avin, I. Shpitser, and J. Pearl, <br/> [Identifiability of path specific effects](https://dl.acm.org/doi/10.5555/1642293.1642350)|
  
-
  ---
  
  ### Full list
-
+{: reversed="reversed"}
 * C. Avin, K. Mondal, and S. Schmid, "Push-Down Trees: Optimal Self-Adjusting Complete Trees," IEEE/ACM Transactions on Networking, 2022. [J38]
 * C. Avin, K. Mondal, and S. Schmid, “Demand-aware network design with minimal congestion and route lengths,” IEEE/ACM Transactions on Networking, 2022. [J37]
 * R. Segal, C. Avin, and G. Scalosub. "Constrained In-network Computing with Low Congestion in Datacenter Networks". in IEEE Conference on Computer Communications (INFOCOM), pp. 1639-1648, 2022. [C67]
