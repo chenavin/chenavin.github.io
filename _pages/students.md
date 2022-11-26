@@ -3,14 +3,15 @@ layout: single
 author_profile: true
 title: "Students"
 permalink: /students
+classes: wide
 ---
 
 
-| Raz Segal | Ph.D | (ex. 2025 | |
-| Elioz Geler | Ms.C |  (ex. 2023 | |
-| Chen Grineer | Ph.D | (ex. 2023) | |(with Gabriel Scalosub)|
+| Raz Segal | Ph.D | (2025) | |
+| Elioz Geler | Ms.C |  (2023 | |
+| Chen Grineer | Ph.D | (2023) | |(with Gabi Scalosub)|
 | Or Peres | Ms.C | 2022 | Distributed Demand-aware Network Design using Bounded Root of Graphs|
-| Raz Segal | Ms.C | 2021 | Network Optimization for Distributed Machine Learning and Big Data | (with Gabriel Scalosub)|
+| Raz Segal | Ms.C | 2021 | Network Optimization for Distributed Machine Learning and Big Data | (with Gabi Scalosub)|
 | Chen Grineer | Ms.C | 2019 | The Complexity of Traffic Traces and its Application for Network Design |
 | Or Raz | Ms.C | 2019 | NADJ: network-aware and adaptive multiway joins |
 | Michal Vanunu | Ms.C | 2018 | Type Assortativity in Social Networks |
