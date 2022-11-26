@@ -3,13 +3,10 @@ title: "Talks"
 layout: single 
 author_profile: true
 permalink: /talks
+classes: wide
 ---
 
-
-
-
-
-| Tokyo, Japan | 2007 | | Identifiability of Path-Specific Effects | International Workshop on the Interface between Statistical Causal Inference and Bayesian Networks. 
+| Tokyo, Japan | 2007 | Identifiability of Path-Specific Effects | International Workshop on the Interface between Statistical Causal Inference and Bayesian Networks. 
 | Med-Hoc-Net | 2009 | Random walks techniques for wireless networks | The 8th IFIP Annual Mediterranean Ad Hoc Networking Workshop. Haifa, Israel.
 | Wolfram | 2015 | Teaching Social Network Analysis with Mathematica. The Wolfram Technology Users Conference. Israel | Invited Talk |
 | Huawei, London | 2019| Toward Demand-Aware Networks Vision and Algorithms | Huawei Vision Forum | Invited Talk |
@@ -18,14 +15,10 @@ permalink: /talks
 | MSWiM | 2006 | The Power of Choice in Random Walks: An Empirical Study | Malaga, Spain | **Best Paper Award** |
 | DIALM-POMC | 2008 | Distance Graphs: From Random Geometric Graphs to Bernoulli Graphs and Between |Toronto, Canada |
 | DIALM-POMC |2010 | Radio Cover Time in Hyper-graphs | Boston, USA.|
-
-\item \hl{2011: PSP: path state protocol for inter-domain routing. ISCC-11,  Corfu, Greece.}
-
-\item \hl{2011: Geographical Quadtree Routing. ISCC-11,  Corfu, Greece.}
-
-\item \hl{2013: Faster Rumor Spreading: Breaking the $\log(n)$  Barrier. DISC-13. Jerusalem. Israel}
-
-\item \hl{2014: Elite, Periphery and Symmetry in Social Networks- An Axiomatic Approach. Stochastic Graph Models Workshop, ICERM, Providence, RI. USA.}
+| ISCC | 2011 | PSP: path state protocol for inter-domain routing | Corfu, Greece |
+| ISCC | 2011 | Geographical Quadtree Routing | Corfu, Greece |
+| DISC | 2013 | Faster Rumor Spreading: Breaking the $\log(n)$  Barrier | Jerusalem. Israel |
+| ICERM | 2014 | Elite, Periphery and Symmetry in Social Networks - An Axiomatic Approach | Stochastic Graph Models Workshop | Providence, RI. USA |
 
 \item \fp{2016: Online Balanced Repartitioning. DISC-16. Paris. France}
 
