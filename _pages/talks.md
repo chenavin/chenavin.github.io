@@ -54,7 +54,7 @@ classes: wide
 |UCI| 2009 | Random walks techniques for wireless networks | CS seminar, UC Irvine. USA. | 
 |Technion| 2009 | Algebraic Gossip via EXCHANGE: Analytical and Simulation Results | ClubNet seminar, Technion. Israel. | 
 |Paderborn| 2009 | Algebraic Gossip via EXCHANGE: Analytical and Simulation Results | Seminar on Theoretical Computer Science, University of Paderborn. Germany. | 
-| Med-Hoc-Net | 2009 | Random walks techniques for wireless networks | The 8th IFIP Annual Mediterranean Ad Hoc Networking Workshop. Haifa, Israel |**Invited Talk** |
+| Med-Hoc-Net | 2009 | Random walks techniques for wireless networks | The 8th IFIP Annual Mediterranean Ad Hoc Networking Workshop. Haifa, Israel **Invited Talk** |
 | INET | 2008 | How to Explore a Fast-Changing World | Israeli Networking Seminar 2008. Cisco, Israel |
 | BGU | 2008 | How to Explore a Fast-Changing World | Random Walks Day. BGU, Israel |
 | DIALM-POMC | 2008 | Distance Graphs: From Random Geometric Graphs to Bernoulli Graphs and Between |Toronto, Canada | 
