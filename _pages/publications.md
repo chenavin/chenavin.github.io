@@ -5,7 +5,7 @@ title: "Publications"
 permalink: /publications
 ---
 
-[[selected publication](#selected-publications)] [[full list](#full-list)][[by topics](#publications-by-topics)] [[by type](#publications-by-type)][[dblp](https://dblp.org/pid/04/5911.html){:target="_blank"}[[Scholar](https://scholar.google.co.il/citations?user=n8JGcgQAAAAJ&hl=en&oi=ao){:target="_blank"}]
+[[selected publication](#selected-publications)] [[full publication list](#full-list)][[by topics](#publications-by-topics)] [[by type](#publications-by-type)][[dblp](https://dblp.org/pid/04/5911.html){:target="_blank"}][[Scholar](https://scholar.google.co.il/citations?user=n8JGcgQAAAAJ&hl=en&oi=ao){:target="_blank"}]
 
 ### Selected Publications
 
@@ -25,7 +25,7 @@ permalink: /publications
 | **Theo. Compu. Sci.** <br/>(ICALP-05) |2011|C. Avin and G. Ercal, <br/> [On the cover time and mixing time of random geometric graphs](https://doi.org/10.1016/j.tcs.2007.02.065)|
 | **IJCAI**  |2005| C. Avin, I. Shpitser, and J. Pearl, <br/> [Identifiability of path specific effects](https://dl.acm.org/doi/10.5555/1642293.1642350)|
  
-### Full list
+### Full publication list
 
 {: reversed="reversed"}
 
