@@ -23,6 +23,6 @@ classes: wide
 | Liat Amir | Ms.C | 2013 | Core-periphery decomposition in social networks |
 | Omer Dunay | Ms.C | 2013 | Virtual machine migration strategies to reduce communication cost |
 | Efi Dror | Ms.C | 2011 | [Vehicular ad-hoc networks simulator and hierarchical clustering algorithm](http://www.bgu.ac.il/~avin/papers/efi_thesis.pdf). [paper]() | (with Zvi Lotker)| 
-| Dotan Guy | Ms.C | 2010 | [PSP - path state protocol for inter-dommain routing](http://www.bgu.ac.il/~avin/papers/psp_thesis.pdf). [paper](http://www.bgu.ac.il/~avin/papers/05983792.pdf). | (with Ran Giladi)|
-| [Yaniv Dvory](https://www.linkedin.com/in/yaniv-dvory-96637424/) | Ms.C | 2010 | [Arithmetic geographical coding and routing](http://www.bgu.ac.il/~avin/papers/gqr_thesis.pdf). [paper](http://www.bgu.ac.il/~avin/papers/05983794.pdf). | (with Ran Giladi)|
-| [Michael Borokhovich](https://www.linkedin.com/in/michaelbor/) | Ms.C | 2010 | Algebraic algorithms for information spreading | (with Zvi Lotker)|
+| [Dotan Guy](https://www.linkedin.com/in/dotan-guy/){:target="_blank"} | Ms.C | 2010 | [PSP - path state protocol for inter-dommain routing](http://www.bgu.ac.il/~avin/papers/psp_thesis.pdf). [paper](http://www.bgu.ac.il/~avin/papers/05983792.pdf). | (with Ran Giladi)| Bidalgo|
+| [Yaniv Dvory](https://www.linkedin.com/in/yaniv-dvory-96637424/){:target="_blank"} | Ms.C | 2010 | [Arithmetic geographical coding and routing](http://www.bgu.ac.il/~avin/papers/gqr_thesis.pdf). [paper](http://www.bgu.ac.il/~avin/papers/05983794.pdf). | (with Ran Giladi)|Apple|
+| [Michael Borokhovich](https://www.linkedin.com/in/michaelbor/){:target="_blank"} | Ms.C | 2010 | Algebraic algorithms for information spreading | (with Zvi Lotker)|Confluent,Amazon, AT&T|
