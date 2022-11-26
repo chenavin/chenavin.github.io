@@ -140,7 +140,7 @@ symposium on parallelism in algorithms and architectures (SPAA), pp. 119–128, 
 
 
 ### Publications by topics
-[Self-Adjusting Netwroks][Distributed Computing][Random Walks][Social Networks][Wireless Netwroks][Netwroking][Dynamic networks][In-netwrok computing][Information Theory]
+[[Self-Adjusting Netwroks](#self-adjusting-netwroks)][[Distributed Computing](#distributed-computing)][[Random Walks](#random-walks)][[Social Networks](#social-networks)][[Wireless Netwroks](#wireless-netwroks)][[Netwroking](#netwroking)][[Dynamic networks](#netwroking)][[In-netwrok computing](#in-netwrok-computing)][[Information Theory](#information-theory)[[AI](#ai)]
 
 #### Self-Adjusting Netwroks
 
@@ -246,6 +246,7 @@ symposium on parallelism in algorithms and architectures (SPAA), pp. 119–128, 
 * E. Dror, C. Avin, and Z. Lotker, “Fast randomized algorithm for 2-hops clustering in vehicular ad-hoc networks,” Ad Hoc Networks, vol. 11, no. 7, pp. 2002–2015, 2013. [J13]
 * C. Avin, Y. Emek, E. Kantor, Z. Lotker, D. Peleg, and L. Roditty, “SINR diagrams: Convexity and its applications in wireless networks,” Journal of the ACM (JACM), vol. 59, no. 4, pp. 1–34, 2012. [J12]
 * C. Avin, Z. Lotker, F. Pasquale, and Y.-A. Pignolet, “A note on uniform power connectivity in the physical signal to interference plus noise (sinr) model,” Theoretical Computer Science, vol. 453, pp. 2– 13, 2012. [J11]
+* C. Avin, M. Borokhovich, Y. Haddad, and Z. Lotker, “Optimal virtual traffic light placement,” in Proceedings of the 8th international workshop on foundations of mobile computing, pp. 1–10, 2012. [C27]
 * B. Haeupler, A. Cohen, C. Avin, and M. M ́edard, “Network coded gossip with correlated data,” in 2012 IEEE International Symposium on Information Theory (ISIT), pp. 2616–2620, IEEE, 2012. [C26]
 * C. Avin, A. Cohen, Y. Haddad, E. Kantor, Z. Lotker, M. Parter, and D. Peleg, “SINR diagram with interference cancellation,” in Proceedings of the Twenty-Third Annual ACM-SIAM Symposium on Discrete Algorithms (SODA), pp. 502–515, 2012. [C25]
 * E. Dror, C. Avin, and Z. Lotker, “Fast randomized algorithm for hierarchical clustering in vehicular ad-hoc networks,” in 2011 The 10th IFIP Annual Mediterranean Ad Hoc Networking Workshop, pp. 1–8, IEEE, 2011. [C24]
@@ -271,9 +272,12 @@ symposium on parallelism in algorithms and architectures (SPAA), pp. 119–128, 
 * C. Avin, M. Borokhovich, and A. Goldfeld, “Mastering (virtual) networks,” in CSEDU 2009 - Proceedings of the First International Conference on Computer Supported Education, pp. 250–257, 2009. [C12]
 
 #### Dynamic networks
+* C. Avin, M. Koucky`, and Z. Lotker, “Cover time and mixing time of random walks on dynamic graphs,” Random Structures & Algorithms, vol. 52, no. 4, pp. 576–596, 2018. [J29]
 * J. Augustine, C. Avin, M. Liaee, G. Pandurangan, and R. Rajaraman, “Information spreading in dynamic networks under oblivious adversaries,” in International Symposium on Distributed Computing (DISC), pp. 399–413, 2016. [C40]
 * A. Cohen, B. Haeupler, C. Avin, and M. M ́edard, “Network coding based information spreading in dynamic networks with correlated data,” IEEE Journal on Selected Areas in Communications, vol. 33, no. 2, pp. 213–224, 2015. [J19]
 * B. Haeupler, A. Cohen, C. Avin, and M. M ́edard, “Network coded gossip with correlated data,” in 2012 IEEE International Symposium on Information Theory (ISIT), pp. 2616–2620, IEEE, 2012. [C26]
+* C. Avin, M. Koucky`, and Z. Lotker, “How to explore a fast-changing world (cover time of a simple random walk on evolving graphs),” in International Colloquium on Automata, Languages, and Programming (ICALP), pp. 121–132, 2008. [C8]
+* C. Avin and C. Brito, “Efficient and robust query processing in dynamic environments using random walk techniques,” in Proceedings of the 3rd international symposium on Information processing in sensor networks (ISPN), pp. 277–286, 2004. [C2]
 
 
 #### In-netwrok computing
@@ -292,9 +296,8 @@ symposium on parallelism in algorithms and architectures (SPAA), pp. 119–128, 
 * C. Avin, M. Borokhovich, K. Censor-Hillel, and Z. Lotker, “Order optimal information spreading using algebraic gossip,” in Proceedings of the 30th annual ACM SIGACT-SIGOPS symposium on Principles of distributed computing (PODC), pp. 363–372, 2011. [C20]
 * M. Borokhovich, C. Avin, and Z. Lotker, “Tight bounds for algebraic gossip on graphs,” in 2010 IEEE International Symposium on Information Theory (ISIT), pp. 1758–1762, IEEE, 2010. [C18]
 
-#### Others
+#### AI
 
-* C. Avin, M. Borokhovich, Y. Haddad, and Z. Lotker, “Optimal virtual traffic light placement,” in Proceedings of the 8th international workshop on foundations of mobile computing, pp. 1–10, 2012. [C27]
 * C. Avin and R. Ben-Eliyahu-Zohary, “An upper bound on computing all x-minimal models,” AI Communications, vol. 20, no. 2, pp. 87–92, 2007. [J1]
 * C. Avin, I. Shpitser, and J. Pearl, “Identifiability of path specific effects,” In Proceedings of International Joint Conference on Artificial Intelligence (IJCAI), vol. 357, p. 363, 2005. [C5]
 * C. Avin and R. B.-E. Zohary, “Algorithms for computing x-minimal models,” in International Conference on Logic Programming and Nonmonotonic Reasoning, pp. 322–335, 2001. [C1]
