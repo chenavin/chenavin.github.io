@@ -8,7 +8,7 @@ classes: wide
 
 
 | Raz Segal | Ph.D | (2025) | In-Network Computing | |(with Gabi Scalosub)|
-| Elioz Geler | Ms.C |  (2023 | | | (with Gabi Scalosub) |
+| Elioz Geler | Ms.C |  (2023 | Distributed Caching for datacenters | | (with Gabi Scalosub) |
 | Chen Grineer | Ph.D | (2023) | Self-Adjusting Networks | | |
 | [Or Peres](https://www.linkedin.com/in/or-peres-199418189/){:target="_blank"} | Ms.C | 2022 | Distributed Demand-aware Network Design using Bounded Root of Graphs| Broadcom | |
 | Raz Segal | Ms.C | 2021 | Network Optimization for Distributed Machine Learning and Big Data | |(with Gabi Scalosub)| 
