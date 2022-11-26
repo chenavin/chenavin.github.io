@@ -35,48 +35,47 @@ classes: wide
 | DIMACS | 2017 | Demand Aware Network (DAN) Design, Some Results and Open Questions |DIMACS Workshop on Algorithms for Data Center Networks. Rutgers University, NJ, USA. | |
 | INET | 2019 | Toward Demand-Aware Networks: Vision and Algorithms | Israeli Networking Day, Marvell, Petah Tikva, Israel. | |
 
-
-\item 2003: Sensor Networks: What does (U)AI got to do with it? AI Group Seminar, UCLA. USA.
-\item 2003: The Sensor Networks Challenge. CSE Seminar, BGU. Israel, December-2003.
-\item 2004: Efficient and Robust Query Processing in Dynamic Environments Using Random Walk Techniques. CENS Seminar, UCLA. USA.
-\item 2005: Distance Graphs: From Random Geometric Graphs to Bernoulli Graphs and Between. Theory Group Seminar, UCLA. USA.
-\item 2006: Random Walks on Random Wireless Networks. Networking Group Seminar, UCLA, USA. January-2006.
-\item 2006: Random Geometric Graphs: an Algorithmic Perspective. Autonomous Networks Research Group Seminar, USC, USA.
-\item 2006: Random Walks Techniques For Random Wireless networks. Communication Systems Engineering Seminar, Ben Gurion University, Israel.
-\item 2007: Many Random Walks Are Faster Than One. CS Colloquium, Ben Gurion University. Israel.
-\item 2007: On The Cover Time and Mixing Time of Random Geometric Graphs. CS Colloquium, Technion.  Israel.
-\item 2007: Enhancing Random Walks Efficiency. CS Colloquium, Tel-Aviv University. Israel.
-\item 2007: Many Random Walks Are Faster Than One. CS/Engineering school Colloquium, Hebrew University. Israel.
-\item 2009: SINR Diagrams:  Towards Algorithmically Usable SINR Models of Wireless Networks. Networking group seminar. UCLA. USA.
-\item 2009: How to Explore a Fast-Changing World. ANRG group seminar. USC. USA.
-\item 2009: SINR Diagrams:  Towards Algorithmically Usable SINR Models of Wireless Networks. ANRG group seminar, USC. USA.
-\item 2009: Random walks techniques for wireless networks. CS seminar, UC Irvine. USA.
-\item 2009: Algebraic Gossip via EXCHANGE: Analytical and Simulation Results. ClubNet seminar, Technion. Israel.
-\item 2009: Algebraic Gossip via EXCHANGE: Analytical and Simulation Results. Seminar on Theoretical Computer Science, University of Paderborn. Germany.
-\item 2010: SINR Diagrams:  Towards Algorithmically Usable SINR Models of Wireless Networks, University of Freiburg. Germany.
-\item 2010: Tight Bounds for Algebraic Gossip on Graphs. CS Colloquium, Bar-Ilan University. Israel.
-\item 2010: Random Walks for (Wireless) Networks. The Harvard Theory of Computation Seminar. Harvad. USA.
-\item \hl{2012: The Elite of Social Networks. Social Networks Seminar. BGU.}
-\item \hl{2012: Random walks techniques for (wireless) networks. MPI. Saarbr\"{u}cken. Germany.}
-\item \hl{2012: Self-Adjusting Networks and Distributed Data Structures. ClubNet seminar, Technion. Israel.}
-\item \hl{2012: From Caesar to Twitter: On the Elite of Social Networks. Social networks seminar. Google, Mountain view, CA. USA.}
-\item \hl{2012: From Caesar to Twitter: On the Elite of Social Networks, USC. USA.}
-\item \hl{2012: From Caesar to Twitter: On the Elite of Social Networks, Google R\&D Seminar, Tel Aviv, Israel.}
-\item \hl{2013: From Caesar to Twitter: On the Elite of Social Networks, Tel-Aviv University, Israel.}
-\item \hl{2013: From Caesar to Twitter: On the Elite of Social Networks, Northeastren University, Boston, MA. USA.}
-\item \hl{2014: Homophily and the Emergence of a Glass Ceiling Effect in Social Networks. Microsoft Research. Boston, MA. USA.}
-\item \hl{2014: Homophily and the Emergence of a Glass Ceiling Effect in Social Networks. Microsoft Research. Mountain View,
-CA. USA.}
-\item \hl{2014: Homophily and the Emergence of a Glass Ceiling Effect in Social Networks. Princeton University. Princeton, NJ. USA.}
-\item \hl{2014: Homophily and the Emergence of a Glass Ceiling Effect in Social Networks. Harvard University. Boston, MA. USA.}
-\item \hl{2014: Homophily and the Emergence of a Glass Ceiling Effect in Social Networks. Northeastren University. Boston, MA. USA.}
-\item \hl{2014: Axiomatic approach to core-periphery networks: implications to social and distributed computing. Google. New York, NY. USA.} 
-\item \hl{2014: Homophily and the Emergence of a Glass Ceiling Effect in Social Networks. Weizmann Institute of Science, Israel.}
-\item \hl{2014: Homophily and the Emergence of a Glass Ceiling Effect in Social Networks. Ben Gurion University of the Negev, Israel.}
-\item \hl{2014: Homophily and the Emergence of a Glass Ceiling Effect in Social Networks. Google Research seminar, Tel-Aviv, Israel.}
-\item \fp{2018: Data-Aware Network Design: Some Results and Open Questions. University of Vienna, Vienna, Austria.}
-\item \fp{2019: Toward Demand-Aware Networks: Vision and Algorithms. Mellanox, Yokneam, Israel.}
-\item \fp{2019: Homophily and the Emergence of a Glass Ceiling Effect in Social Networks. University of Cambridge, Cambridge, UK.}
-\item \fp{2021: Cerberus: The Power of Choices in Datacenter Topology Design -- A Throughput Perspective. Google networking seminar, Mountain View,
-CA. USA. (via Zoom)}
-\item \fp{2022: Cerberus: The Power of Choices in Datacenter Topology Design -- A Throughput Perspective. Microsoft, Cambridge, UK. (via Zoom)}
+|UCLA | 2003 | Sensor Networks: What does (U)AI got to do with it? AI Group Seminar, UCLA. USA | |
+|BGU | 2003 | The Sensor Networks Challenge | CSE Seminar, BGU. Israel. | |
+|UCLA | 2004 | Efficient and Robust Query Processing in Dynamic Environments Using Random Walk Techniques | CENS Seminar, UCLA. USA. | |
+|UCLA | 2005 | Distance Graphs: From Random Geometric Graphs to Bernoulli Graphs and Between | Theory Group Seminar, UCLA. USA. | |
+|UCLA | 2006 | Random Walks on Random Wireless Networks | Networking Group Seminar, UCLA, USA. | |
+|USC | 2006 | Random Geometric Graphs: an Algorithmic Perspective | Autonomous Networks Research Group Seminar, USC, USA. | |
+|BGU | 2006 | Random Walks Techniques For Random Wireless networks | Communication Systems Engineering Seminar, BGU, Israel. | |
+|BGU | 2007 | Many Random Walks Are Faster Than One | CS Colloquium, Ben Gurion University. Israel. | |
+|Technion| 2007 | On The Cover Time and Mixing Time of Random Geometric Graphs | CS Colloquium, Technion.  Israel. | |
+|TAU | 2007 | Enhancing Random Walks Efficiency | CS Colloquium, Tel-Aviv University. Israel. | |
+|HUJI| 2007 | Many Random Walks Are Faster Than One | CS/Engineering school Colloquium, Hebrew University. Israel. | |
+| UCLA|  2009 | SINR Diagrams:  Towards Algorithmically Usable SINR Models of Wireless Networks | Networking group seminar. UCLA. USA. | |
+|USC| 2009 | How to Explore a Fast-Changing World | ANRG group seminar. USC. USA. | |
+|USC| 2009 | SINR Diagrams:  Towards Algorithmically Usable SINR Models of Wireless Networks | ANRG group seminar, USC. USA. | |
+|UCI| 2009 | Random walks techniques for wireless networks | CS seminar, UC Irvine. USA. | |
+|Technion| 2009 | Algebraic Gossip via EXCHANGE: Analytical and Simulation Results | ClubNet seminar, Technion. Israel. | |
+|Paderborn| 2009 | Algebraic Gossip via EXCHANGE: Analytical and Simulation Results | Seminar on Theoretical Computer Science, University of Paderborn. Germany. | |
+|Freiburg| 2010 | SINR Diagrams:  Towards Algorithmically Usable SINR Models of Wireless Networks | University of Freiburg. Germany. ||
+|BIU| 2010 | Tight Bounds for Algebraic Gossip on Graphs | CS Colloquium, Bar-Ilan University. Israel. | |
+|Harvard| 2010 | Random Walks for (Wireless) Networks | The Harvard Theory of Computation Seminar. Harvad. USA. | |
+|BGU|2012| The Elite of Social Networks | Social Networks Seminar. BGU. | |
+|MPI|2012| Random walks techniques for (wireless) networks | MPI. Saarbr\"{u}cken. Germany. | |
+|Technion |2012| Self-Adjusting Networks and Distributed Data Structures | ClubNet seminar, Technion. Israel. | |
+|Google|2012| From Caesar to Twitter: On the Elite of Social Networks | Social networks seminar. Google, Mountain view, CA. USA. | |
+|USC|2012 | From Caesar to Twitter: On the Elite of Social Networks | USC. USA. ||
+|Google|2012| From Caesar to Twitter: On the Elite of Social Networks |Google R\&D Seminar, Tel Aviv, Israel. | |
+|TAU |2013 | From Caesar to Twitter: On the Elite of Social Networks | Tel-Aviv University, Israel. | |
+|Northeastren|2013| From Caesar to Twitter: On the Elite of Social Networks | Northeastren University, Boston, MA. USA. | |
+|Microsoft |2014 | Homophily and the Emergence of a Glass Ceiling Effect in Social Networks | Microsoft Research. Boston, MA. USA. | |
+|Microsoft|2014 | Homophily and the Emergence of a Glass Ceiling Effect in Social Networks | Microsoft Research. Mountain View,
+CA. USA. | |
+|Princeton|2014| Homophily and the Emergence of a Glass Ceiling Effect in Social Networks | Princeton University. Princeton, NJ. USA. | |
+|Harvard|2014 | Homophily and the Emergence of a Glass Ceiling Effect in Social Networks | Harvard University. Boston, MA. USA. | |
+|Northeastren|2014| Homophily and the Emergence of a Glass Ceiling Effect in Social Networks | Northeastren University. Boston, MA. USA. ||
+|Google|2014| Axiomatic approach to core-periphery networks: implications to social and distributed computing | Google. New York, NY. USA. | |
+|Weizmann| 2014| Homophily and the Emergence of a Glass Ceiling Effect in Social Networks | Weizmann Institute of Science, Israel. | |
+|BGU |2014 | Homophily and the Emergence of a Glass Ceiling Effect in Social Networks |Ben Gurion University of the Negev, Israel. | |
+|Google |2014 | Homophily and the Emergence of a Glass Ceiling Effect in Social Networks. Google Research seminar, Tel-Aviv, Israel. | |
+|UW | 2018 | Data-Aware Network Design: Some Results and Open Questions | University of Vienna, Vienna, Austria. | |
+|Mellanox | 2019 | Toward Demand-Aware Networks: Vision and Algorithms | Mellanox, Yokneam, Israel. | |
+| Cambridge | 2019| Homophily and the Emergence of a Glass Ceiling Effect in Social Networks | University of Cambridge, Cambridge, UK. | |
+| Google |2021| Cerberus: The Power of Choices in Datacenter Topology Design -- A Throughput Perspective | Google networking seminar, Mountain View,
+CA. USA. (via Zoom) | |
+|Microsoft | 2022 | Cerberus: The Power of Choices in Datacenter Topology Design -- A Throughput Perspective | Microsoft, Cambridge, UK. (via Zoom) | |
