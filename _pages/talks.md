@@ -6,45 +6,36 @@ permalink: /talks
 classes: wide
 ---
 
-| Tokyo, Japan | 2007 | Identifiability of Path-Specific Effects | International Workshop on the Interface between Statistical Causal Inference and Bayesian Networks. 
-| Med-Hoc-Net | 2009 | Random walks techniques for wireless networks | The 8th IFIP Annual Mediterranean Ad Hoc Networking Workshop. Haifa, Israel.
-| Wolfram | 2015 | Teaching Social Network Analysis with Mathematica. The Wolfram Technology Users Conference. Israel | Invited Talk |
-| Huawei, London | 2019| Toward Demand-Aware Networks Vision and Algorithms | Huawei Vision Forum | Invited Talk |
-| IPSN |2004| Efficient and Robust Query Processing in Dynamic Environments Using Random Walk Techniques |
-| ICALP | 2005 | On The Cover Time of Random Geometric Graphs | Lisbon, Portugal.
+| Workshop | 2007 | Identifiability of Path-Specific Effects | International Workshop on the Interface between Statistical Causal Inference and Bayesian Networks, Tokyo, Japan | Invited Talk | 
+| Med-Hoc-Net | 2009 | Random walks techniques for wireless networks | The 8th IFIP Annual Mediterranean Ad Hoc Networking Workshop. Haifa, Israel | Invited Talk |
+| Wolfram | 2015 | Teaching Social Network Analysis with Mathematica | The Wolfram Technology Users Conference. Israel | Invited Talk |
+| Huawei  | 2019| Toward Demand-Aware Networks Vision and Algorithms | Huawei Vision Forum. London, UK. | Invited Talk |
+| IPSN |2004| Efficient and Robust Query Processing in Dynamic Environments Using Random Walk Techniques | Boston, USA |
+| ICALP | 2005 | On The Cover Time of Random Geometric Graphs | Lisbon, Portugal | | 
 | MSWiM | 2006 | The Power of Choice in Random Walks: An Empirical Study | Malaga, Spain | **Best Paper Award** |
-| DIALM-POMC | 2008 | Distance Graphs: From Random Geometric Graphs to Bernoulli Graphs and Between |Toronto, Canada |
-| DIALM-POMC |2010 | Radio Cover Time in Hyper-graphs | Boston, USA.|
-| ISCC | 2011 | PSP: path state protocol for inter-domain routing | Corfu, Greece |
-| ISCC | 2011 | Geographical Quadtree Routing | Corfu, Greece |
-| DISC | 2013 | Faster Rumor Spreading: Breaking the $\log(n)$  Barrier | Jerusalem. Israel |
-| ICERM | 2014 | Elite, Periphery and Symmetry in Social Networks - An Axiomatic Approach | Stochastic Graph Models Workshop | Providence, RI. USA |
+| DIALM-POMC | 2008 | Distance Graphs: From Random Geometric Graphs to Bernoulli Graphs and Between |Toronto, Canada | | 
+| DIALM-POMC |2010 | Radio Cover Time in Hyper-graphs | Boston, USA.| | 
+| ISCC | 2011 | PSP: path state protocol for inter-domain routing | Corfu, Greece | |
+| ISCC | 2011 | Geographical Quadtree Routing | Corfu, Greece | |
+| DISC | 2013 | Faster Rumor Spreading: Breaking the $\log(n)$  Barrier | Jerusalem. Israel | |
+| ICERM | 2014 | Elite, Periphery and Symmetry in Social Networks - An Axiomatic Approach | Stochastic Graph Models Workshop, Providence, RI. USA | |
+| DISC | 2016 | Online Balanced Repartitioning | Paris. France | |
+| INFOCOM | 2019 | Demand-Aware Network Design with Minimal Congestion and Route Lengths | Paris. France | **Best In-session award** |
+| SIGCOMM | 2019 | Topic Preview Presentation: Technical Session 10: New Control Plane Operations | Beijing. China. | |
+| CNA | 2020 | De-evolution of Preferential Attachment Trees | International Conference on Complex Networks and their Applications (Zoom) | | 
+| LATIN | 2020 | Dynamically Optimal Self-Adjusting Single-Source Tree Networks | Zoom) | |
 
-\item \fp{2016: Online Balanced Repartitioning. DISC-16. Paris. France}
 
-\item \fp{2019: Demand-Aware Network Design with Minimal Congestion and Route Lengths. INFOCOM 2019, Paris. France}
+| AISP | 2007 | Random Walks Techniques in Networking | Algorithms, Inference, \& Statistical Physics (AISP) workshop. Santa Fe, NM. USA | |
+| INET | 2008 | How to Explore a Fast-Changing World | Israeli Networking Seminar 2008. Cisco, Israel | |
+| BGU | 2008 | How to Explore a Fast-Changing World | Random Walks Day. BGU, Israel | |
+| FIR | 2010 |  New Routing Protocols for Ethernet Transport Network Architecture (ETNA) | The Israeli Hungarian Workshop on Future Internet Research.  Haifa, Israel. | |
+| INET| 2011 | Order Optimal Information Spreading Using Algebraic Gossip | Israeli Networking Seminar 2011. Google, Israel. | |
+| Dagstuhl | 2013 | From Caesar to Twitter: On the Elite of Social Networks | Dagstuhl Seminar 13042, Germany. | |
+| DIMACS | 2017 | Demand Aware Network (DAN) Design, Some Results and Open Questions |DIMACS Workshop on Algorithms for Data Center Networks. Rutgers University, NJ, USA. | |
+| INET | 2019 | Toward Demand-Aware Networks: Vision and Algorithms | Israeli Networking Day, Marvell, Petah Tikva, Israel. | |
 
-\item \fp{2019: {\bf Topic Preview Presentation}: Technical Session 10: New Control Plane Operations . SIGCOMM 2019, Beijing. China.}
 
-\item \fp{2020: De-evolution of Preferential Attachment Trees. International Conference on Complex Networks and their Applications. 2020 (via Zoom).}
-
-\item \fp{2020: Dynamically Optimal Self-Adjusting Single-Source Tree Networks. LATIN 2020. 2020 (via Zoom).}
-\end{enumerate}
-
-\subsection*{(c) Presentations at informal international seminars and workshops}
-\begin{enumerate}[label=Pc\arabic{enumi}., ref=Pc\arabic{enumi}]
-\item 2007:  Random Walks Techniques in Networking. Algorithms, Inference, \& Statistical Physics (AISP) workshop. Santa Fe, NM. USA.
-\item 2008: How to Explore a Fast-Changing World . Israeli Networking Seminar 2008. Cisco, Israel.
-\item 2008: How to Explore a Fast-Changing World . Random Walks Day. BGU, Israel.
-\item 2010:  New Routing Protocols for Ethernet Transport Network Architecture (ETNA). The Israeli Hungarian Workshop on Future Internet Research.  Haifa, Israel.
-\item 2011: Order Optimal Information Spreading Using Algebraic Gossip.  Israeli Networking Seminar 2011. Google, Israel.
-\item \hl{2013: From Caesar to Twitter: On the Elite of Social Networks, Dagstuhl Seminar 13042, Germany.}
-\item \fp{2017: Demand Aware Network (DAN) Design, Some Results and Open Questions. DIMACS Workshop on Algorithms for Data Center Networks. Rutgers University, NJ, USA.}
-\item \fp{2019: Toward Demand-Aware Networks: Vision and Algorithms. Israeli Networking Day, Marvell, Petah Tikva, Israel.}
-\end{enumerate}
-
-\subsection*{(d) Seminar presentations at universities and institutions}
-\begin{enumerate}[label=Ps\arabic{enumi}., ref=Ps\arabic{enumi}]
 \item 2003: Sensor Networks: What does (U)AI got to do with it? AI Group Seminar, UCLA. USA.
 \item 2003: The Sensor Networks Challenge. CSE Seminar, BGU. Israel, December-2003.
 \item 2004: Efficient and Robust Query Processing in Dynamic Environments Using Random Walk Techniques. CENS Seminar, UCLA. USA.
