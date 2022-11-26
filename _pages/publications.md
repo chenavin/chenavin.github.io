@@ -27,10 +27,12 @@ permalink: /publications
  
  ---
  
- ### Full list
+### Full list
+
 {: reversed="reversed"}
-* C. Avin, K. Mondal, and S. Schmid, "Push-Down Trees: Optimal Self-Adjusting Complete Trees," IEEE/ACM Transactions on Networking, 2022. [J38]
-* C. Avin, K. Mondal, and S. Schmid, “Demand-aware network design with minimal congestion and route lengths,” IEEE/ACM Transactions on Networking, 2022. [J37]
+
+1. C. Avin, K. Mondal, and S. Schmid, "Push-Down Trees: Optimal Self-Adjusting Complete Trees," IEEE/ACM Transactions on Networking, 2022. [J38]
+1. C. Avin, K. Mondal, and S. Schmid, “Demand-aware network design with minimal congestion and route lengths,” IEEE/ACM Transactions on Networking, 2022. [J37]
 * R. Segal, C. Avin, and G. Scalosub. "Constrained In-network Computing with Low Congestion in Datacenter Networks". in IEEE Conference on Computer Communications (INFOCOM), pp. 1639-1648, 2022. [C67]
 * C. Griner, S. Schmid, and C. Avin, “Cachenet: Leveraging the principle of locality in reconfigurable network design,” Computer Networks, vol. 204, p. 108648, 2022 [J36]
 * C. Avin, A. Cohen, Z. Lotker, and D. Peleg, “Hotelling games in fault-prone settings,” Theoretical Computer Science, 2022. [J35]
