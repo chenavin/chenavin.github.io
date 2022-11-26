@@ -10,6 +10,7 @@ classes: wide
 | **Google** |2021| Cerberus: The Power of Choices in Datacenter Topology Design -- A Throughput Perspective | Google networking seminar, Mountain View, CA. USA. (via Zoom) | 
 | CNA | 2020 | De-evolution of Preferential Attachment Trees | International Conference on Complex Networks and their Applications (Zoom) | 
 | LATIN | 2020 | Dynamically Optimal Self-Adjusting Single-Source Tree Networks | (via Zoom) | 
+| **Huawei**  | 2019| Toward Demand-Aware Networks Vision and Algorithms | Huawei Vision Forum. London, UK.  **Invited Talk** |
 | **INFOCOM** | 2019 | Demand-Aware Network Design with Minimal Congestion and Route Lengths | Paris. France.  **Best In-session award** |
 | Mellanox | 2019 | Toward Demand-Aware Networks: Vision and Algorithms | Mellanox, Yokneam, Israel. | 
 | Cambridge | 2019| Homophily and the Emergence of a Glass Ceiling Effect in Social Networks | University of Cambridge, Cambridge, UK. | 
@@ -17,7 +18,6 @@ classes: wide
 | SIGCOMM | 2019 | Topic Preview Presentation: Technical Session 10: New Control Plane Operations | Beijing. China. | 
 |UW | 2018 | Data-Aware Network Design: Some Results and Open Questions | University of Vienna, Vienna, Austria. | 
 | DIMACS | 2017 | Demand Aware Network (DAN) Design, Some Results and Open Questions |DIMACS Workshop on Algorithms for Data Center Networks. Rutgers University, NJ, USA. | 
-| **Huawei**  | 2019| Toward Demand-Aware Networks Vision and Algorithms | Huawei Vision Forum. London, UK.  **Invited Talk** |
 | DISC | 2016 | Online Balanced Repartitioning | Paris. France | 
 | Wolfram | 2015 | Teaching Social Network Analysis with Mathematica | The Wolfram Technology Users Conference. Israel **Invited Talk** |
 | **Microsoft** |2014 | Homophily and the Emergence of a Glass Ceiling Effect in Social Networks | Microsoft Research. Boston, MA. USA. | 
