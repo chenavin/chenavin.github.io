@@ -7,7 +7,7 @@ classes: wide
 ---
 
 
-| Raz Segal | Ph.D | (2025) | In-Network Computing | |(with Gabi Scalosub)|
+| Raz Segal | Ph.D | (2025) | In-Network Computing[^1] | |(with Gabi Scalosub)|
 | Elioz Geler | Ms.C |  (2023 | Distributed Caching for datacenters | | (with Gabi Scalosub) |
 | Chen Grineer | Ph.D | (2023) | Self-Adjusting Networks | | |
 | [Or Peres](https://www.linkedin.com/in/or-peres-199418189/){:target="_blank"} | Ms.C | 2022 | Distributed Demand-aware Network Design using Bounded Root of Graphs| Broadcom | |
@@ -26,3 +26,6 @@ classes: wide
 | [Dotan Guy](https://www.linkedin.com/in/dotan-guy/){:target="_blank"} | Ms.C | 2010 | [PSP - path state protocol for inter-dommain routing](http://www.bgu.ac.il/~avin/papers/psp_thesis.pdf). [paper](http://www.bgu.ac.il/~avin/papers/05983792.pdf). | Bidalgo| (with Ran Giladi)| 
 | [Yaniv Dvory](https://www.linkedin.com/in/yaniv-dvory-96637424/){:target="_blank"} | Ms.C | 2010 | [Arithmetic geographical coding and routing](http://www.bgu.ac.il/~avin/papers/gqr_thesis.pdf). [paper](http://www.bgu.ac.il/~avin/papers/05983794.pdf). | Apple| (with Ran Giladi)|
 | [Michael Borokhovich](https://www.linkedin.com/in/michaelbor/){:target="_blank"} | Ms.C | 2010 | Algebraic algorithms for information spreading | Amazon|(with Zvi Lotker)|
+
+
+[1]  Jointly with Gabrieal Scalosub
