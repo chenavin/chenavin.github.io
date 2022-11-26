@@ -67,7 +67,8 @@ classes: wide
 | MSWiM | 2006 | The Power of Choice in Random Walks: An Empirical Study | Malaga, Spain | **Best Paper Award** |
 |UCLA | 2006 | Random Walks on Random Wireless Networks | Networking Group Seminar, UCLA, USA. | |
 |USC | 2006 | Random Geometric Graphs: an Algorithmic Perspective | Autonomous Networks Research Group Seminar, USC, USA. | |
-|BGU | 2006 | Random Walks Techniques For Random Wireless networks | Communication Systems Engineering Seminar, BGU, Israel. | || ICALP | 2005 | On The Cover Time of Random Geometric Graphs | Lisbon, Portugal | | 
+|BGU | 2006 | Random Walks Techniques For Random Wireless networks | Communication Systems Engineering Seminar, BGU, Israel. | |
+|ICALP | 2005 | On The Cover Time of Random Geometric Graphs | Lisbon, Portugal | | 
 |UCLA | 2005 | Distance Graphs: From Random Geometric Graphs to Bernoulli Graphs and Between | Theory Group Seminar, UCLA. USA. | |
 | IPSN |2004| Efficient and Robust Query Processing in Dynamic Environments Using Random Walk Techniques | Boston, USA |
 |UCLA | 2004 | Efficient and Robust Query Processing in Dynamic Environments Using Random Walk Techniques | CENS Seminar, UCLA. USA. | |
