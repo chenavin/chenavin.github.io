@@ -140,7 +140,7 @@ symposium on parallelism in algorithms and architectures (SPAA), pp. 119–128, 
 
 
 ### Publications by topics
-[[Self-Adjusting Netwroks](#self-adjusting-netwroks)][[Distributed Computing](#distributed-computing)][[Random Walks](#random-walks)][[Social Networks](#social-networks)][[Wireless Netwroks](#wireless-netwroks)][[Netwroking](#netwroking)][[Dynamic networks](#netwroking)][[In-netwrok computing](#in-netwrok-computing)][[Information Theory](#information-theory)[[AI](#ai)]
+[[Self-Adjusting Netwroks](#self-adjusting-netwroks)][[Distributed Computing](#distributed-computing)][[Random Walks](#random-walks)][[Social Networks](#social-networks)][[Wireless Netwroks](#wireless-netwroks)][[Netwroking](#netwroking)][[Dynamic networks](#netwroking)][[In-netwrok computing](#in-netwrok-computing)][[Information Theory](#information-theory)][[AI](#ai)]
 
 #### Self-Adjusting Netwroks
 
