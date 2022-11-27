@@ -3,17 +3,21 @@ title: "Teaching"
 layout: single 
 author_profile: true
 permalink: /teaching
+classes: wide
 ---
 
 
-T1. * Computer Networks Design - undergraduate level. - BGU.
-T2. Computer Networks - CS168, graduate and undergraduate level. - Brown University. T3. Computer Communication Networks 2, undergraduate level. - BGU.
-T4. Introduction to information Theory, undergraduate level - BGU.
-T5. Network Algorithms, graduate level - BGU.
-T6. Advance Digital Communication 2, graduate level - BGU.
-T7. Advance Topics in Networking, graduate level - BGU.
-T8. Social Networks, graduate and undergraduate level - BGU.
-T9. Random Walks and Random Graphs, summer class, graduate level - USC.
-T10. Causality (as TA), undergraduate level - UCLA.
-T11. Introduction to Algorithms and Complexity, (as TA), undergraduate level - UCLA. T12. Introduction to Computer Science II, (as TA), undergraduate level - UCLA.
-T13. introduction to Computer Science I. (as TA), undergraduate level - UCLA.
+|Intoroduction to computer networks | undergraduate level | BGU | 2022 - current |
+|Computer Networks Design  | undergraduate level | BGU | 2021 - current |
+|Computer Networks - CS168 | graduate and undergraduate level | Brown University | 2014 |
+|Computer Communication Networks 2 | undergraduate level |BGU | 2006-2019 |
+| Introduction to information Theory | undergraduate level  | BGU | 2006-1019 |
+| Network Algorithms | graduate level | BGU | 2016 - current 
+| Advance Digital Communication | graduate level | BGU | 2012-2016 |
+| Advance Topics in Networking | graduate level | BGU | 2015-2018 |
+| Social Networks Analysis | graduate and undergraduate level | BGU | 2015 - current 
+| Random Walks and Random Graphs | summer class, graduate level | USC | 2006 |
+| Causality (as TA) | undergraduate level | UCLA | 2004-2006 |
+| Introduction to Algorithms and Complexity, (as TA) | undergraduate level | UCLA | 2004 |
+| Introduction to Computer Science II, (as TA) | undergraduate level | UCLA | 2003 |
+| introduction to Computer Science I. (as TA) | undergraduate level | UCLA | 2003
