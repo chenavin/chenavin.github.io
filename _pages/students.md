@@ -16,7 +16,7 @@ classes: wide
 | [Or Raz](https://www.linkedin.com/in/or-raz/){:target="_blank"} | Ms.C | 2019 | NADJ: network-aware and adaptive multiway joins | Red Hat| |
 | [Michal Vanunu](https://www.linkedin.com/in/michalvanunu/){:target="_blank"} | Ms.C | 2018 | Type Assortativity in Social Networks | AudioCodes| |
 | [Yuri Lotker](https://www.linkedin.com/in/yuri-lotker-sw-dev-manager/){:target="_blank"} | Ms.C | 2016 | De-evolution of preferential attachment graphs | Cisco| |
-| Alex Hercules | Ms.C | 2015 | Communication-aware continuous-discrete network design|
+| [Alex Hercules](https://us02web.zoom.us/my/chenavin){:target="_blank"} | Ms.C | 2015 | Communication-aware continuous-discrete network design| Pliops |
 | [Michael Borokhovich](https://www.linkedin.com/in/michaelbor/){:target="_blank"} | Ph.D | 2014 | Algebraic algorithms for information spreading[^2] |Confluent|
 | [Yoav Peer](https://www.linkedin.com/in/yoav-peer-415156214/){:target="_blank"} | Ms.C | 2013 | Optimization of random peer-to-peer botnet topology | GoI | |
 | [Assaf Mizrachi](https://www.linkedin.com/in/assimiz/){:target="_blank"} | Ms.C | 2013 | [Majority vote and monopolies in social networks](http://www.bgu.ac.il/~avin/papers/asi_thesis.pdf). [paper]().| Ribbon|| 
