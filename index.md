@@ -3,11 +3,14 @@ layout: single
 author_profile: true
 title: "Welcome to my homepage"
 permalink: /
+classes:wide
 ---
 
 ### About me:
 
-I'm an associate professor at the [[School of Electrical and Computer Engineering]](), [Ben-Gurion University of the Negev](), Israel. I received his MSc and Ph.D. degrees in computer science from the University of California, Los Angeles (UCLA) in 2003 and 2006. Recently he served as the chair of the Communication Systems Engineering department at BGU.  His current research interests are data-driven graphs and network algorithms, modeling, and analysis, emphasizing demand-aware networks, distributed systems, social networks, and randomized algorithms for networking.
+I'm an associate professor at the [School of Electrical and Computer Engineering](), [Ben-Gurion University of the Negev](), Israel. 
+I did my undergadute studies at the department of communication system engineering, BGU. 
+I received his M.Sc and Ph.D. degrees in computer science from the University of California, Los Angeles (UCLA) in 2003 and 2006. Recently he served as the chair of the Communication Systems Engineering department at BGU.  His current research interests are data-driven graphs and network algorithms, modeling, and analysis, emphasizing demand-aware networks, distributed systems, social networks, and randomized algorithms for networking.
 
 **Research Intrests:**
 
