@@ -5,7 +5,7 @@ title: "Welcome to my homepage"
 permalink: /
 ---
 
-**Short bio:**
+### About me:
 
 1
 
@@ -21,40 +21,17 @@ permalink: /
 
 ### Education
 
-5
+* B.Sc., Communication Systems Engineering, 1996 - 2000\\
+**Ben Gurion University of The Negev**, Beer Sheva, Israel.
 
-6
+* M.S., Computer Science, 2001 - 2003\\
+**University of California Los Angeles**, Los Angeles, USA.
 
-7
+* Ph.D., Computer Science, 09/2001 - 03/2006 \\
+**University of California Los Angeles**, Los Angeles, USA. \\
+Advisor: Professor Judea Pearl.\\
+Co-chair: Professor Deborah Estrin.\\
+Dissertation Title: Random Geometric Graphs: An Algorithmic Perspective.\\\
 
-8
+[Full CV](http://www.bgu.ac.il/~avin/papers/avin_cv_bgu_2020.pdf)
 
-### Contact Information 
-
-9
-
-10
-
-11
-
-12
-
-13
-
-14
-
-15 
-
-16
- 
-17 
-
-18 
-
-19 
-
-20
-
-21
-
-22
