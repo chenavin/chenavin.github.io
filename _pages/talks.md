@@ -7,6 +7,9 @@ classes: wide
 ---
 
 |**Microsoft** | 2022 | Cerberus: The Power of Choices in Datacenter Topology Design -- A Throughput Perspective | Microsoft, Cambridge, UK. (via Zoom) | 
+|HUJI | 2022 | Cerberus: The Power of Choices in Datacenter Topology Design -- A Throughput Perspective | Hebrew University. Jerusalem, Israel. | 
+|Huawei | 2022 | Cerberus: The Power of Choices in Datacenter Topology Design -- A Throughput Perspective | Toga Networks, Israel. |
+| Dagstuhl | 2022 | Sejf-Adjusting Networks | Dagstuhl Seminar 22471, Germany. ***Keynote talk*** | 
 | **Google** |2021| Cerberus: The Power of Choices in Datacenter Topology Design -- A Throughput Perspective | Google networking seminar, Mountain View, CA. USA. (via Zoom) | 
 | CNA | 2020 | De-evolution of Preferential Attachment Trees | International Conference on Complex Networks and their Applications (Zoom) | 
 | LATIN | 2020 | Dynamically Optimal Self-Adjusting Single-Source Tree Networks | (via Zoom) | 
@@ -18,18 +21,18 @@ classes: wide
 | SIGCOMM | 2019 | Topic Preview Presentation: Technical Session 10: New Control Plane Operations | Beijing. China. | 
 |UW | 2018 | Data-Aware Network Design: Some Results and Open Questions | University of Vienna, Vienna, Austria. | 
 | DIMACS | 2017 | Demand Aware Network (DAN) Design, Some Results and Open Questions |DIMACS Workshop on Algorithms for Data Center Networks. Rutgers University, NJ, USA. | 
-| DISC | 2016 | Online Balanced Repartitioning | Paris. France | 
-| Wolfram | 2015 | Teaching Social Network Analysis with Mathematica | The Wolfram Technology Users Conference. Israel **Invited Talk** |
+| DISC | 2016 | Online Balanced Repartitioning | Paris, France. | 
+| Wolfram | 2015 | Teaching Social Network Analysis with Mathematica | The Wolfram Technology Users Conference. Israel. **Invited Talk** |
 | **Microsoft** |2014 | Homophily and the Emergence of a Glass Ceiling Effect in Social Networks | Microsoft Research. Boston, MA. USA. | 
 | Microsoft|2014 | Homophily and the Emergence of a Glass Ceiling Effect in Social Networks | Microsoft Research. Mountain View, CA. USA. | 
 | Princeton|2014| Homophily and the Emergence of a Glass Ceiling Effect in Social Networks | Princeton University. Princeton, NJ. USA. |
 | Harvard|2014 | Homophily and the Emergence of a Glass Ceiling Effect in Social Networks | Harvard University. Boston, MA. USA. | 
-| **Northeastren**|2014| Homophily and the Emergence of a Glass Ceiling Effect in Social Networks | Northeastren University. Boston, MA. USA. |
+| **Northeastren**|2014| Homophily and the Emergence of a Glass Ceiling Effect in Social Networks | Barabási Group, Northeastren University. Boston, MA. USA. |
 | **Google**|2014| Axiomatic approach to core-periphery networks: implications to social and distributed computing | Google. New York, NY. USA. |
 |Weizmann| 2014| Homophily and the Emergence of a Glass Ceiling Effect in Social Networks | Weizmann Institute of Science, Israel. | 
 |BGU |2014 | Homophily and the Emergence of a Glass Ceiling Effect in Social Networks |Ben Gurion University of the Negev, Israel. |
-|Google |2014 | Homophily and the Emergence of a Glass Ceiling Effect in Social Networks. Google Research seminar, Tel-Aviv, Israel. | 
-| ICERM | 2014 | Elite, Periphery and Symmetry in Social Networks - An Axiomatic Approach | Stochastic Graph Models Workshop, Providence, RI. USA | 
+|Google |2014 | Homophily and the Emergence of a Glass Ceiling Effect in Social Networks | Google Research seminar, Tel-Aviv, Israel. | 
+| ICERM | 2014 | Elite, Periphery and Symmetry in Social Networks - An Axiomatic Approach | Stochastic Graph Models Workshop, Providence, RI. USA. | 
 |TAU |2013 | From Caesar to Twitter: On the Elite of Social Networks | Tel-Aviv University, Israel. | 
 |Northeastren|2013| From Caesar to Twitter: On the Elite of Social Networks | Northeastren University, Boston, MA. USA. | 
 | Dagstuhl | 2013 | From Caesar to Twitter: On the Elite of Social Networks | Dagstuhl Seminar 13042, Germany. | 
