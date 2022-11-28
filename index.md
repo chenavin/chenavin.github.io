@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 title: "Welcome to my homepage"
 permalink: /
-classes:wide
+classes: wide
 ---
 
 ### About me:
