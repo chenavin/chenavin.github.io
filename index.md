@@ -6,13 +6,9 @@ permalink: /
 classes: wide
 ---
 
-### About me:
+**About me:** I'm an associate professor at the [School of Electrical and Computer Engineering](https://in.bgu.ac.il/engn/ece/Pages/default.aspx), [Ben-Gurion University of the Negev](https://www.bgu.ac.il), Israel. I did my undergraduate studies at the department of communication system engineering, BGU.  I received my MSc and Ph.D. degrees in [computer science](https://www.cs.ucla.edu/) from the University of California, Los Angeles (UCLA), in 2003 and 2006, respectively. I spent a sabbatical year during 2013-2014 as a visiting professor at Brown University, RI, USA. In 2018-2021 I served as the chair of the Communication Systems Engineering department at BGU. Since 2021 I'm also a senate member at BGU.
 
-I'm an associate professor at the [School of Electrical and Computer Engineering](https://in.bgu.ac.il/engn/ece/Pages/default.aspx), [Ben-Gurion University of the Negev](https://www.bgu.ac.il), Israel. 
-I did my undergraduate studies at the department of communication system engineering, BGU.  
-I received my MSc and Ph.D. degrees in [computer science](https://www.cs.ucla.edu/) from the University of California, Los Angeles (UCLA), in 2003 and 2006, respectively. I spent a sabbatical year during 2013-2014 as a visiting professor at Brown University, RI, USA. In 2018-2021 I served as the chair of the Communication Systems Engineering department at BGU. Since 2021 I'm also a senate member at BGU.
-
-My research lies at the intersection of systems and theory. I am motivated by real-life systems, their operations, and the problems and questions they present. My goal is to study the properties of these systems analytically to exploit them for the development of efficient algorithms. Please see some of my [selected publications](/publications#selected-publications) or the [complete list of publications](/publications#selected-publications#full-publication-list).
+My research lies at the intersection of systems and theory. I am motivated by real-life systems, their operations, and the problems and questions they present. My goal is to study the properties of these systems analytically to exploit them for the development of efficient algorithms. Please see some of my [selected publications](/publications#selected-publications) or the [complete list of publications](/publications#full-publication-list).
 
 
 **Research Intrests:** I have a broad range of research interests, including networking, algorithms, social networks, and information theory. In particular, my current main research work is modeling and analysis of data-driven graphs and network algorithms emphasizing demand-aware and [self-adjusting networks](/publications#self-adjusting-netwroks). Additionally, I continue to work on [distributed systems](/publications#distributed-computing), [social networks](/publications#social-networks), [In-netwrok computing](/publications#in-netwrok-computing) and [randomized algorithms for networking](/publications#random-walks).
