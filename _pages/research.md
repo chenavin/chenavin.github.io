@@ -25,9 +25,9 @@ toc_label: "ToC"
 
 
 | Magneton | 2020-2022 | Net Action: Network aware cache-based acceleration (with [Nvidia](https://www.nvidia.com) | The Office of the Chief Scientist of the Ministry of Industry, Trade & Labor. [link](http://www.magnet.org.il/default.asp?id=26) |
-| ERC (co Researcher) | 2019-2015 | Self- Adjusting Networks - AdjustNet. Stefan Schmid (PI) | |
+| ERC (co Researcher) | 2019-2015 | Self- Adjusting Networks - AdjustNet. Prof. [Stefan Schmid](https://schmiste.github.io/) (PI) | |
 | GIF | 2014-2018 | Yin-Yang Networking: Self-Adjusting Virtual Infrastructures (With Dr. [Stefan Schmid](https://schmiste.github.io/) (TU Berlin) | [The German Israeli Foundation](http://gif.org.il) I-1245-407.6/2014 |
-|ISF | 2013-2017| Structure, Dynamics and Algorithmics of Social Networks: An Axiom-Based Approach (With Prof. Zvi Lotker (BGU) and Prof. [[http://www.wisdom.weizmann.ac.il/~/peleg/ | David Peleg]] Weitzmann Institute) | [The Israel Science Foundation](http://isf.org.il/) 1549/13 |
+|ISF | 2013-2017| Structure, Dynamics and Algorithmics of Social Networks: An Axiom-Based Approach (With Prof. [Zvi Lotker](https://scholar.google.com/citations?user=s9GA_xkAAAAJ&hl=en) (BGU) and Prof. [David Peleg](http://www.wisdom.weizmann.ac.il/~/peleg/) Weitzmann Institute) | [The Israel Science Foundation](http://isf.org.il/) 1549/13 |
 | Magneton |2009-2011 | Spontaneous Wireless Vehicular Networks (with [Mobilicom](http://www.mobilicom.co.il)) | The Office of the Chief Scientist of the Ministry of Industry, Trade & Labor. [link](http://www.magnet.org.il/default.asp?id=26) |
 |GIF Young | 2007-2008 | The Road Not Taken - Random Walk with Choice for Wireless Networks Applications. | German-Israeli Foundation - Grant No. 2183-1807.6/2007 |
 
