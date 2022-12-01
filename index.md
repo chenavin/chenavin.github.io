@@ -2,7 +2,6 @@
 layout: single
 author_profile: true
 permalink: /
-classes: wide
 ---
 
 {: style="text-align: justify" }
