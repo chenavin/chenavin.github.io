@@ -15,7 +15,7 @@ toc_label: "ToC"
     * publications about [Self-Adjusting Netwroks](/publications#self-adjusting-netwroks)
   * Algorithms for [dynamic networks](/publications#self-adjusting-netwroks)
   * [Random walks](/publications#random-walks) on networks.
-  * [In-netwrok computing](/publications#in-netwrok-computing)]
+  * [In-netwrok computing](/publications#in-netwrok-computing)
 * [Social Networks](/SocialNetworksAxioms)
 * [Distributed Computing](/publications#distributed-computing)
 * [Information Theory](/publications#information-theory)
