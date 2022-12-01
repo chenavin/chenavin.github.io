@@ -4,7 +4,7 @@ author_profile: true
 permalink: /
 ---
 
-<figure style="width: 50px" class="align-right">
+<figure style="width: 20px" class="align-right">
   <img src="/assets/images/starbucks_front_low.jpeg" alt="">
   <figcaption>The Anonymous Painter</figcaption>
 </figure> 
