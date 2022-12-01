@@ -33,7 +33,8 @@ toc_label: "ToC"
 
 
 ### Awards
-----
+
+* INFOCOM Best In-session Presentation Award - 2019.
 * Excellence in teaching award - Ben Gurion University - 2007.
 * ACM/IEEE MSWIM Best Paper Award - 2006.
 * Teaching Assistant Fellowship, UCLA 2001-2003.
@@ -42,12 +43,21 @@ toc_label: "ToC"
 * Bezeq (Israel's telecommunications corporation) Scholarship 1997.
 
 ### Organizing 
-----
-* [[http://www.abstract-talk.org/ | Abstract Talk]] - Collaborative Interviews on Science and Technology. Podcast site to promote science and research. Co-founder. 2011.
-* [[http://www.cs.bgu.ac.il/~frankel/SNGTDay/index.html | Society, Networks and Game Theory Day]] (National day workshop). BGU 2012.
 
-* [[http://nap.cse.bgu.ac.il/challenge2012 | The Israeli Mobile Challenge 2012]]
-* [[http://nap.cse.bgu.ac.il/challenge2011 | The Israeli Mobile Challenge 2011]]
-* [[http://nap.cse.bgu.ac.il/challenge/CSE_Challenge_2010/Welcome.html | The CSE Android Challenge 2010]]
-* [[http://www.cs.bgu.ac.il/~frankel/RW2008/index.html |  Random Walks 2008 - Discussing and Exploring Random Walks]] \\\
+* [Israeli Networking Day 2021](https://sites.google.com/view/israelinetworkingday2021)
+* [OptSys - ACM SIGCOMM 2021 Workshop on Optical Systems Design](https://conferences.sigcomm.org/sigcomm/2021/workshop-optsys.html)
+* [OptSys - ACM SIGCOMM 2020 Workshop on Optical Systems Design](https://conferences.sigcomm.org/sigcomm/2020/workshop-optsys.html)
+* [OptSys - ACM SIGCOMM 2019 Workshop on Optical Systems Design](https://conferences.sigcomm.org/sigcomm/2019/workshop-optsys.html)
+* [DCC 2019 -  International Workshop on Distributed Cloud Computing](http://www.disc-conference.org/wp/dcc2019/)
+* [PODC 2016 - The ACM Symposium on Principles of Distributed Computing](https://www.podc.org/podc2016/)
+* SIROCCO 2015 - The 22nd International Colloquium on Structural Information and Com- munication Complexity
+* [DISC 2015 - The International Symposium on DIStributed Computing](http://www.disc-conference.org/wp/disc2014/)
+* [DISC 2014 - The International Symposium on DIStributed Computing](http://www.disc-conference.org/wp/disc2014/)
+* [DISC 2013 - The International Symposium on DIStributed Computing](http://www.disc-conference.org/wp/disc2013/)
+* [Abstract Talk](http://www.abstract-talk.org) - Collaborative Interviews on Science and Technology. Podcast site to promote science and research. Co-founder. 2011.
+* [Society, Networks and Game Theory Day](http://www.cs.bgu.ac.il/~frankel/SNGTDay/index.html) (National day workshop). BGU 2012.
+* The Israeli Mobile Challenge 2012
+* The Israeli Mobile Challenge 2011
+* The CSE Android Challenge 2010]
+* [Random Walks 2008 - Discussing and Exploring Random Walks](http://www.cs.bgu.ac.il/~frankel/RW2008/index.html). BGU 2008.
 
