@@ -52,4 +52,10 @@ representing its social capital in the “society” formed by the nodes and the
 
 **Publication:** C. Avin, A. Cohen, P. Fraigniaud, Z. Lotker, and D. Peleg, “[Preferential attachment as a unique equilibrium](https://doi.org/10.1145/3178876.3186122),” in Proceedings of the 2018 World Wide Web Conference (WWW), pp. 559–568, 2018.
 
+### Improved degree bounds and full spectrum power laws in preferential attachment networks
 
+Enjoy the video :-) 
+
+<iframe width="560" height="315" src="https://youtu.be/uKl1KB241pg" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Publication:** C. Avin, Z. Lotker, Y. Nahum, and D. Peleg, “[Improved degree bounds and full spectrum power laws in preferential attachment networks](https://doi.org/10.1145/3097983.3098012),” in Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), pp. 45–53, 2017. [C45]
