@@ -12,9 +12,15 @@ This work was supported by ISF grant number 1549/13: Structure, Dynamics and Alg
 
 ### Core-Periphery in Networks: An Axiomatic Approach
 
+{: style="text-align: justify" }
+![plos](/assets/images/pone.0205820.g001.png){: width="100px" .align-right}
 **Abstract:** Recent evidence shows that in many societies worldwide the relative sizes of the economic and social elites are continuously shrinking. Is this a natural social phenomenon? What are the forces that shape this process? We try to address these questions by studying a Core-Periphery social structure composed of a social elite, namely, a relatively small but well-connected and highly influential group of powerful individuals, and the rest of society, the periphery. Herein, we present a novel axiom-based model for the forces governing the mutual influences between the elite and the periphery. Assuming a simple set of axioms, capturing the elite’s dominance, robustness, compactness and density, we are able to draw strong conclusions about the elite-periphery structure. In particular, we show that a balance of powers between elite and periphery and an elite size that is sub-linear in the network size are universal properties of elites in social networks that satisfy our axioms. We note that the latter is in controversy to the common belief that the elite size converges to a linear fraction of society (most recently claimed to be 1%). We accompany these findings with a large scale empirical study on about 100 real-world networks, which supports our results.
-* '''Publication''': under review 
-* '''Files''': [[http://arxiv.org/abs/1411.2242 | arXiv version]].
+
+
+**Publication:** C. Avin, Z. Lotker, D. Peleg, Y.-A. Pignolet, and I. Turkel, “[Elites in social networks: An axiomatic approach to power balance and price’s square root law](https://doi.org/10.1371/journal.pone.0205820),” PloS one, vol. 13, no. 10, p. e0205820, 2018. [J27]
+
+
+
 
 ### Homophily and the Glass Ceiling Effect in Social Networks
 
