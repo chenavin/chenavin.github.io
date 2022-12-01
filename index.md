@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <figure style="width: 200px" class="align-right">
-  <img src="/assets/images/starbucks_front_low.jpg" alt="">
+  <img src="/assets/images/starbucks_front_low.jpeg" alt="">
   <figcaption>The Anonymous Painter</figcaption>
 </figure> 
 {: style="text-align: justify" }
