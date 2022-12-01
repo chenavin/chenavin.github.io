@@ -14,8 +14,8 @@ a while taking my picture, and I didn’t notice... too much work, I guess. Inte
 there are a few different figures; I’m one of them (can you guess which?). Then she turned the page and focused solely on me.... 
 (this is the second drawing below)
 
-![back](/assets/images/starbucks_back_low.jpeg){: .align-center width="50px" border="1px solid black"}
+![back](/assets/images/starbucks_back_low.jpeg){: .align-center width="500px" border="1px solid black"}
 
 
-![front](assets/images/starbucks_front_low.jpeg){: .align-center width="50px" border="1px solid black"}
+![front](assets/images/starbucks_front_low.jpeg){: .align-center width="500px" border="1px solid black"}
 
