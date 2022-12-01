@@ -4,6 +4,8 @@ author_profile: true
 permalink: /
 ---
 
+![Anonymous](/assets/images/starbucks_front_low.jpeg){: width="50px"}
+
 {: style="text-align: justify" }
 <figure style="width: 20px" class="align-right">
   <img src="/assets/images/starbucks_front_low.jpeg">
