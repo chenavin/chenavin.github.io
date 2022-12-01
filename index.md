@@ -30,7 +30,7 @@ My research lies at the intersection of systems and theory. I am motivated by re
 **University of California Los Angeles**, Los Angeles, USA. \\
 Advisor: Professor Judea Pearl.\\
 Co-chair: Professor Deborah Estrin.\\
-Dissertation Title: Random Geometric Graphs: An Algorithmic Perspective.\\
+Dissertation Title: Random Geometric Graphs: An Algorithmic Perspective. \\
 
 [Full CV (2020)](http://www.bgu.ac.il/~avin/papers/avin_cv_bgu_2020.pdf)
 
