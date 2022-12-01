@@ -19,7 +19,7 @@ classes: wide
 | **ACM  CCR**  |2018| C. Avin and S. Schmid, <br/> [Toward demand-aware networking: A theory for self-adjusting networks](https://doi.org/10.1145/3310165.3310170)|
 | **WWW**  |2018| C. Avin, A. Cohen, P. Fraigniaud, Z. Lotker, and D. Peleg, <br/> [Preferential attachment as a unique equilibrium](https://doi.org/10.1145/3178876.3186122)|
 | **KDD**  |2017| C. Avin, Z. Lotker, Y. Nahum, and D. Peleg, <br/> [Improved degree bounds and full spectrum power laws in preferential attachment networks](https://doi.org/10.1145/3097983.3098012)| 
-| **ITCS**  |2015| C. Avin, B. Keller, Z. Lotker, C. Mathieu, D. Peleg, and Y.-A. Pignolet, <br/>  [Homophily and the glass ceiling effect in social # networks](https://doi.org/10.1145/2688073.2688097)|
+| **ITCS**  |2015| C. Avin, B. Keller, Z. Lotker, C. Mathieu, D. Peleg, and Y.-A. Pignolet, <br/>  [Homophily and the glass ceiling effect in social networks](https://doi.org/10.1145/2688073.2688097)|
 | **IEEE/ACM ToN**  |2015| S. Schmid, C. Avin, C. Scheideler, M. Borokhovich, B. Haeupler, and Z. Lotker, <br/>  [Splaynet: Towards locally self-adjusting networks](https://doi.org/10.1109/TNET.2015.2410313)|
 | **J. of ACM**  <br/> (PODC-08)|2012| C. Avin, Y. Emek, E. Kantor, Z. Lotker, D. Peleg, and L. Roditty, <br/> [SINR diagrams: Convexity and its applications in wireless networks](https://doi.org/10.1145/2339123.2339125)|
 | **Comb. Prob. & Comp.** <br/>(SPAA-08)|2011| N. Alon, C. Avin, M. Koucky, G. Kozma, Z. Lotker, and M. R. Tuttle, <br/> [Many random walks are faster than one](https://doi.org/10.1017/S0963548311000125)|
