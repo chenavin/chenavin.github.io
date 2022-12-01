@@ -10,7 +10,9 @@ toc_label: "ToC"
 ### Research Interests
 
 * Modeling and analysis of graphs and networks algorithms:
-  * Demand-aware and  self-adjusting networks: (i) an example of [Self-Adjusting Grid Network](/Self-AdjustingGridNetworks), (ii) publications about [Self-Adjusting Netwroks](/publications#self-adjusting-netwroks)
+  * Demand-aware and  self-adjusting networks: 
+    * Some examples: [Self-Adjusting Grid Network](/Self-AdjustingGridNetworks), [SplayNets](https://self-adjusting.net/slaynet-visualization/), [push-down trees](https://self-adjusting.net/pushdown-visualisation/), [Trace Collection](https://trace-collection.net/).
+    * publications about [Self-Adjusting Netwroks](/publications#self-adjusting-netwroks)
   * Algorithms for [dynamic networks](/publications#self-adjusting-netwroks)
   * [Random walks](/publications#random-walks) on networks.
   * [In-netwrok computing](/publications#in-netwrok-computing)]
@@ -21,10 +23,10 @@ toc_label: "ToC"
 
 ### Grants
 ----
-*  2014: [[http://gif.org.il/ | GIF]] I-1245-407.6/2014: Yin-Yang Networking: Self-Adjusting Virtual Infrastructures (With Dr. [[http://www.net.t-labs.tu-berlin.de/~stefan/ |Stefan Schmid]] (TU Berlin).
-*  2013: [[http://isf.org.il/ | ISF]] 1549/13: Structure, Dynamics and Algorithmics of Social Networks: An Axiom-Based Approach (With Prof. Zvi Lotker (BGU) and Prof. [[http://www.wisdom.weizmann.ac.il/~/peleg/ | David Peleg]] Weitzmann Institute).
-* Magneton grant with [[http://www.mobilicom.co.il | Mobilicom]] - The Office of the Chief Scientist of the Ministry of Industry, Trade & Labor [[http://www.magnet.org.il/default.asp?id=26 | link]]. 2009.
-* The Road Not Taken - Random Walk with Choice for Wireless Networks Applications. [[http://gif.org.il/ | GIF]] (German-Israeli Foundation) - Grant No. 2183-1807.6/2007\\\
+| GIF | 2014-2018 | Yin-Yang Networking: Self-Adjusting Virtual Infrastructures (With Dr. [Stefan Schmid](https://schmiste.github.io/) (TU Berlin) | [The German Israeli Foundation](http://gif.org.il) I-1245-407.6/2014 |
+|ISF | 2013-2017| Structure, Dynamics and Algorithmics of Social Networks: An Axiom-Based Approach (With Prof. Zvi Lotker (BGU) and Prof. [[http://www.wisdom.weizmann.ac.il/~/peleg/ | David Peleg]] Weitzmann Institute) | [The Israel Science Foundation](http://isf.org.il/) 1549/13 |
+| Magneton |2009-2011 | Spontaneous Wireless Vehicular Networks (with [Mobilicom](http://www.mobilicom.co.il)) | The Office of the Chief Scientist of the Ministry of Industry, Trade & Labor. [link](http://www.magnet.org.il/default.asp?id=26) |
+GIF Young | 2007-2008 | The Road Not Taken - Random Walk with Choice for Wireless Networks Applications. | German-Israeli Foundation - Grant No. 2183-1807.6/2007 |
 
 
 ### Awards
