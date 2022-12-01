@@ -51,6 +51,18 @@ toc_label: "ToC"
 * The CSE Android Challenge 2010]
 * [Random Walks 2008 - Discussing and Exploring Random Walks](http://www.cs.bgu.ac.il/~frankel/RW2008/index.html). BGU 2008.
 
+
+### Visitors
+
+* 2008: Dr. [Francesco Pasquale](https://scholar.google.co.il/citations?user=hWNmVW8AAAAJ&hl=en&oi=ao) (Tor Vergata University of Rome, Italy)
+* 2008-9: Dr. [Yvonne-Anne Pignolet](https://scholar.google.co.il/citations?hl=en&user=2p3vfV4AAAAJ) (ETH Zurich, Switzerland)
+* 2011: PhD. Student, [Bernhard Haeupler](https://scholar.google.co.il/citations?hl=en&user=hIq09eUAAAAJ) (MIT, USA)
+* 2013: (long term visit) PhD. Student, [Barbara Keller](https://scholar.google.co.il/citations?hl=en&user=B1I-faUAAAAJ) (ETH Zurich, Switzerland) 
+* 2009: Dr. [Stefan Schmid]([en](https://scholar.google.co.il/citations?hl=en&user=o3Mh4FwAAAAJ)) (TU-Berlin, Germany)
+* 2015: Prof. [Robert Elsasser](https://scholar.google.co.il/citations?hl=en&user=WIY8ymUAAAAJ) (University of Salzburg, Austria)
+* 2016: Louis Cohen (M.Sc. student Normalien Ecole Normale Sup ́erieure de Cachan, France.)
+
+
 ### Awards
 
 * INFOCOM Best In-session Presentation Award - 2019.
