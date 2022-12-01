@@ -7,17 +7,17 @@ classes: wide
 ---
 
 
-| Raz Segal | Ph.D | (2025) | In-Network Computing[^1] | |
+| Raz Segal | Ph.D | (2025) | In-Network Computing[^1] . [scholar](https://scholar.google.co.il/citations?hl=en&user=wRThMSEAAAAJ)| |
 | Elioz Geler | M.Sc |  (2023) | Distributed Caching for datacenters[^1] | |
-| Chen Grineer | Ph.D | (2023) | Self-Adjusting Networks | | |
+| Chen Griner | Ph.D | (2023) | Self-Adjusting Networks. [scholar](https://scholar.google.co.il/citations?user=ideTGfcAAAAJ&hl=en&oi=ao) | | 
 | [Or Peres](https://www.linkedin.com/in/or-peres-199418189/){:target="_blank"} | M.Sc | 2022 | Distributed Demand-aware Network Design using Bounded Root of Graphs| Broadcom | |
-| Raz Segal | M.Sc | 2021 | Network Optimization for Distributed Machine Learning and Big Data[^1] | |
-| Chen Grineer | M.Sc | 2019 | The Complexity of Traffic Traces and its Application for Network Design | | |
+| Raz Segal | M.Sc | 2021 | Network Optimization for Distributed Machine Learning and Big Data[^1] [scholar](https://scholar.google.co.il/citations?hl=en&user=wRThMSEAAAAJ)| |
+| Chen Grineer | M.Sc | 2019 | The Complexity of Traffic Traces and its Application for Network Design. [scholar](https://scholar.google.co.il/citations?user=ideTGfcAAAAJ&hl=en&oi=ao)| |
 | [Or Raz](https://www.linkedin.com/in/or-raz/){:target="_blank"} | M.Sc | 2019 | NADJ: network-aware and adaptive multiway joins | Red Hat| |
 | [Michal Vanunu](https://www.linkedin.com/in/michalvanunu/){:target="_blank"} | M.Sc | 2018 | Type Assortativity in Social Networks | AudioCodes| |
 | [Yuri Lotker](https://www.linkedin.com/in/yuri-lotker-sw-dev-manager/){:target="_blank"} | M.Sc | 2016 | De-evolution of preferential attachment graphs | Cisco| |
 | [Alex Hercules]([https://us02web.zoom.us/my/chenavin](https://www.linkedin.com/in/alexandergerkules/)){:target="_blank"} | M.Sc | 2015 | Communication-aware continuous-discrete network design| Pliops |
-| [Michael Borokhovich](https://www.linkedin.com/in/michaelbor/){:target="_blank"} | Ph.D | 2014 | Algebraic algorithms for information spreading[^2] |Confluent|
+| [Michael Borokhovich](https://www.linkedin.com/in/michaelbor/){:target="_blank"} | Ph.D | 2014 | Algebraic algorithms for information spreading[^2]. [scholar](https://scholar.google.co.il/citations?user=dGV14RsAAAAJ&hl=en) |Confluent|
 | [Yoav Peer](https://www.linkedin.com/in/yoav-peer-415156214/){:target="_blank"} | M.Sc | 2013 | Optimization of random peer-to-peer botnet topology | GoI | |
 | [Assaf Mizrachi](https://www.linkedin.com/in/assimiz/){:target="_blank"} | M.Sc | 2013 | [Majority vote and monopolies in social networks](http://www.bgu.ac.il/~avin/papers/asi_thesis.pdf). [paper]().| Ribbon|| 
 | [Liat Amir](https://www.linkedin.com/in/liat-elichai-7b815a57/){:target="_blank"} | M.Sc | 2013 | Core-periphery decomposition in social networks |Amazon||
@@ -25,7 +25,7 @@ classes: wide
 | [Efi Dror](https://www.linkedin.com/in/efi-dror-b3b29321/){:target="_blank"} | M.Sc | 2011 | [Vehicular ad-hoc networks simulator and hierarchical clustering algorithm](http://www.bgu.ac.il/~avin/papers/efi_thesis.pdf)[^2]. [paper]() | Parallel Wireless| 
 | [Dotan Guy](https://www.linkedin.com/in/dotan-guy/){:target="_blank"} | M.Sc | 2010 | [PSP - path state protocol for inter-dommain routing](http://www.bgu.ac.il/~avin/papers/psp_thesis.pdf)[^3]. [paper](http://www.bgu.ac.il/~avin/papers/05983792.pdf). | Bidalgo| 
 | [Yaniv Dvory](https://www.linkedin.com/in/yaniv-dvory-96637424/){:target="_blank"} | M.Sc | 2010 | [Arithmetic geographical coding and routing](http://www.bgu.ac.il/~avin/papers/gqr_thesis.pdf). [paper](http://www.bgu.ac.il/~avin/papers/05983794.pdf)[^3]. | Apple| 
-| [Michael Borokhovich](https://www.linkedin.com/in/michaelbor/){:target="_blank"} | M.Sc | 2010 | Algebraic algorithms for information spreading[^2] | Amazon|
+| [Michael Borokhovich](https://www.linkedin.com/in/michaelbor/){:target="_blank"} | M.Sc | 2010 | Algebraic algorithms for information spreading[^2]. [scholar](https://scholar.google.co.il/citations?user=dGV14RsAAAAJ&hl=en) | Amazon|
 
 
 [^1]:  Jointly with Gabrieal Scalosub
