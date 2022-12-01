@@ -4,6 +4,10 @@ author_profile: true
 permalink: /
 ---
 
+<figure style="width: 150px" class="align-right">
+  <img src="/assets/images//assets/images/starbucks_front_low.jpg" alt="">
+  <figcaption>The Anonymous Painter</figcaption>
+</figure> 
 {: style="text-align: justify" }
 **About me:** I'm an associate professor at the [School of Electrical and Computer Engineering](https://in.bgu.ac.il/engn/ece/Pages/default.aspx), [Ben-Gurion University of the Negev](https://www.bgu.ac.il), Israel. I did my undergraduate studies at the department of communication system engineering, BGU.  I received my MSc and Ph.D. degrees in [computer science](https://www.cs.ucla.edu/) from the University of California, Los Angeles (UCLA), in 2003 and 2006, respectively. I spent a sabbatical year during 2013-2014 as a visiting professor at Brown University, RI, USA. In 2018-2021 I served as the chair of the Communication Systems Engineering department at BGU. Since 2021 I'm also a senate member at BGU.
 
