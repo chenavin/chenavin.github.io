@@ -5,10 +5,5 @@ author_profile: true
 permalink: /research
 ---
 
-Test header
 
-aasfsfsafa
-
-dsfdsfds
-fdsffs
-fdsfdsfds
+Example of [Self-Adjusting Grid Network](/Self-AdjustingGridNetworks)
