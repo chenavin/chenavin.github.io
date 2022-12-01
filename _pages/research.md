@@ -6,4 +6,5 @@ permalink: /research
 ---
 
 
-Example of [Self-Adjusting Grid Network](/Self-AdjustingGridNetworks)
+* Example of [Self-Adjusting Grid Network](/Self-AdjustingGridNetworks)
+* [Social Networks](/SocialNetworksAxioms)
