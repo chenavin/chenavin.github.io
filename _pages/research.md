@@ -32,16 +32,6 @@ toc_label: "ToC"
 |GIF Young | 2007-2008 | The Road Not Taken - Random Walk with Choice for Wireless Networks Applications. | German-Israeli Foundation - Grant No. 2183-1807.6/2007 |
 
 
-### Awards
-
-* INFOCOM Best In-session Presentation Award - 2019.
-* Excellence in teaching award - Ben Gurion University - 2007.
-* ACM/IEEE MSWIM Best Paper Award - 2006.
-* Teaching Assistant Fellowship, UCLA 2001-2003.
-* Ben Gurion University Foreign Study Scholarship 2001-2005.
-* Graduated with Distinction, B.Sc. Ben Gurion University 2000.
-* Bezeq (Israel's telecommunications corporation) Scholarship 1997.
-
 ### Organizing 
 
 * [Israeli Networking Day 2021](https://sites.google.com/view/israelinetworkingday2021)
@@ -61,3 +51,12 @@ toc_label: "ToC"
 * The CSE Android Challenge 2010]
 * [Random Walks 2008 - Discussing and Exploring Random Walks](http://www.cs.bgu.ac.il/~frankel/RW2008/index.html). BGU 2008.
 
+### Awards
+
+* INFOCOM Best In-session Presentation Award - 2019.
+* Excellence in teaching award - Ben Gurion University - 2007.
+* ACM/IEEE MSWIM Best Paper Award - 2006.
+* Teaching Assistant Fellowship, UCLA 2001-2003.
+* Ben Gurion University Foreign Study Scholarship 2001-2005.
+* Graduated with Distinction, B.Sc. Ben Gurion University 2000.
+* Bezeq (Israel's telecommunications corporation) Scholarship 1997.
