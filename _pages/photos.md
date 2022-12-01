@@ -1,5 +1,5 @@
 ---
-title: "Some of my favorite family photos"
+title: "Some of my favorite family (old) photos"
 layout: single 
 author_profile: true
 permalink: /photos
