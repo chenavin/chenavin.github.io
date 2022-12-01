@@ -9,7 +9,7 @@ Source: C. Avin, M. Borokhovich, B. Haeupler, and Z. Lotker, “[Self-adjusting 
 
 Network size 30 * 30. Number of clusters 8, 50% of nodes are inactive
 
-%width=500px% Attach:animation3.gif
+![animation](/assets/images/animation3.gif){: .align-center}
 
 ----
 In this animation we can see how a local greedy switching algorithm adjusts the network so that the nodes belonging to the same cluster (same color) will be located closer together thus, minimizing the expected path (route) length.
