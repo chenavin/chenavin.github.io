@@ -76,4 +76,4 @@ classes: wide
 | IPSN |2004| Efficient and Robust Query Processing in Dynamic Environments Using Random Walk Techniques | Boston, USA |
 |UCLA | 2004 | Efficient and Robust Query Processing in Dynamic Environments Using Random Walk Techniques | CENS Seminar, UCLA. USA. | 
 |BGU | 2003 | The Sensor Networks Challenge | CSE Seminar, BGU. Israel. | 
-|UCLA | 2003 | Sensor Networks: What does (U)AI got to do with it? AI Group Seminar, UCLA. USA | 
+|UCLA | 2003 | Sensor Networks: What does (U)AI got to do with it? | AI Group Seminar, UCLA. USA | 
