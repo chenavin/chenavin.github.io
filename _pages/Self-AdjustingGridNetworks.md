@@ -22,6 +22,8 @@ The algorithm goes as follows. Every node can switch (exchange locations) with i
 
 In the animation below, we have 900 nodes randomly separated into 16 clusters, i.e., there are on average 900/16 nodes in every cluster.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RFG-zMk6uwo" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <iframe width="640" height="360" src="http://www.youtube.com/embed/RFG-zMk6uwo" frameborder="1" allowfullscreen></iframe>
 
 ----
