@@ -8,12 +8,12 @@ permalink: /research
 ### Research Interests
 
 * Modeling and analysis raphs and networks algorithms:
-** Demand-aware and  self-adjusting networks 
-  *** Example of [Self-Adjusting Grid Network](/Self-AdjustingGridNetworks)
-  *** Publications about [Self-Adjusting Netwroks](/publications/#self-adjusting-netwroks)
-** Algorithms for [dynamic networks](/publications/#self-adjusting-netwroks)
-** [Random walks](/publications/#random-walks) on networks.
-** [In-netwrok computing](/publications#in-netwrok-computing)]
+  * Demand-aware and  self-adjusting networks 
+    * Example of [Self-Adjusting Grid Network](/Self-AdjustingGridNetworks)
+    * Publications about [Self-Adjusting Netwroks](/publications/#self-adjusting-netwroks)
+  * Algorithms for [dynamic networks](/publications/#self-adjusting-netwroks)
+  * [Random walks](/publications/#random-walks) on networks.
+  * [In-netwrok computing](/publications#in-netwrok-computing)]
 * [Social Networks](/SocialNetworksAxioms)
 * [Distributed Computing](/publications#distributed-computing)
 * [Information Theory](/publications#information-theory)
