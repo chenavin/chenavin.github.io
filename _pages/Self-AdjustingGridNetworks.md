@@ -24,7 +24,10 @@ In the animation below, we have 900 nodes randomly separated into 16 clusters, i
 
 <iframe width="640" height="360" src="http://www.youtube.com/embed/RFG-zMk6uwo" frameborder="1" allowfullscreen></iframe>
 
-
 ----
-In the second animation bellow, we have 450 inactive randomly located nodes, and the rest 450 nodes are separated into 8 clusters, i.e., there are in average 450/8 = 900/16 nodes in every cluster.
-(:includeurl "http://www.youtube.com/embed/ZaaLXEPpY6o"  border=1:)
+
+In the second animation below, we have 450 inactive randomly located nodes, and the rest 450 nodes are separated into 8 clusters, i.e., there are an average 450/8 = 900/16 nodes in every cluster.
+
+
+<iframe width="640" height="360" src="http://www.youtube.com/embed/ZaaLXEPpY6o" frameborder="1" allowfullscreen></iframe>
+
