@@ -33,6 +33,9 @@ toc_label: "ToC"
 
 {: reversed="reversed"}
 
+0. Or Peres, Chen Avin. "Distributed Demand-aware Network Design using Bounded Square Root of Graphs.," accepted to INFOCOM 2023, 2023. [C70]
+0. Arash Pourdamghani, Chen Avin, Robert Sama, Stefan Schmid. "SeedTree: A Dynamically Optimal and Local Self-Adjusting Tree," accepted to INFOCOM 2023, 2023. [C69]
+0. Chen Avin, Marcin Bienkowski, Iosif Salem, Robert Sama, Stefan Schmid, Pawel Schmidt. "Deterministic Self-Adjusting Tree Networks Using Rotor Walks," in \emph{ICDCS 2022}: 67-77. 2022. [C68]
 0. C. Avin, K. Mondal, and S. Schmid, "Push-Down Trees: Optimal Self-Adjusting Complete Trees," IEEE/ACM Transactions on Networking, 2022. [J38]
 0. C. Avin, K. Mondal, and S. Schmid, “Demand-aware network design with minimal congestion and route lengths,” IEEE/ACM Transactions on Networking, 2022. [J37]
 0. R. Segal, C. Avin, and G. Scalosub. "Constrained In-network Computing with Low Congestion in Datacenter Networks". in IEEE Conference on Computer Communications (INFOCOM), pp. 1639-1648, 2022. [C67]
@@ -148,7 +151,10 @@ symposium on parallelism in algorithms and architectures (SPAA), pp. 119–128, 
 
 #### Self-Adjusting Netwroks
 
-* C. Avin, K. Mondal, and S. Schmid, "Push-Down Trees: Optimal Self-Adjusting Complete Trees," IEEE/ACM Transactions on Networking, 2022. [J38]
+* Or Peres, Chen Avin. "Distributed Demand-aware Network Design using Bounded Square Root of Graphs.," accepted to  INFOCOM 2023, 2023.
+* Arash Pourdamghani, Chen Avin, Robert Sama, Stefan Schmid. "SeedTree: A Dynamically Optimal and Local Self-Adjusting Tree," accepted to  INFOCOM 2023, 2023.
+* Chen Avin, Marcin Bienkowski, Iosif Salem, Robert Sama, Stefan Schmid, Pawel Schmidt. "Deterministic Self-Adjusting Tree Networks Using Rotor Walks," in \emph{ICDCS 2022}: 67-77. 2022.
+*  C. Avin, K. Mondal, and S. Schmid, "Push-Down Trees: Optimal Self-Adjusting Complete Trees," IEEE/ACM Transactions on Networking, 2022. [J38]
 * C. Avin, K. Mondal, and S. Schmid, “Demand-aware network design with minimal congestion and route lengths,” IEEE/ACM Transactions on Networking, 2022. [J37]
 * C. Griner, S. Schmid, and C. Avin, “Cachenet: Leveraging the principle of locality in reconfigurable network design,” Computer Networks, vol. 204, p. 108648, 2022 [J36]
 * C. Griner, J. Zerwas, A. Blenk, M. Ghobadi, S. Schmid, and C. Avin, “Cerberus: The power of choices in datacenter topology design-a throughput perspective,” Proceedings of the ACM on Measurement and Analysis of Computing Systems (Sigmetrics), vol. 5, no. 3, pp. 1–33, 2021. [C66]
@@ -185,6 +191,7 @@ symposium on parallelism in algorithms and architectures (SPAA), pp. 119–128, 
 
 #### Distributed Computing
 
+* Or Peres, Chen Avin. "Distributed Demand-aware Network Design using Bounded Square Root of Graphs.," accepted to  INFOCOM 2023, 2023.
 * B. Peres, O. A. de Oliveira Souza, O. Goussevskaya, C. Avin, and S. Schmid, “Distributed self-adjusting tree networks,” IEEE Transactions on Cloud Computing, 2021. [J34]
 * B. Peres, O. A. de Oliveira Souza, O. Goussevskaya, C. Avin, and S. Schmid, “Distributed self-adjusting tree networks," in IEEE Conference on Computer Communications (INFOCOM), pp. 145–153, 2019. [C56]
 * C. Avin, I. Salem, and S. Schmid, "Brief Announcement: On Self-Adjusting Skip List Networks", In International Symposium on Distributed Computing (DISC), pp. 35:1-35:3, 2019. [C51]
