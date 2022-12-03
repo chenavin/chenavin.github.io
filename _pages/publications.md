@@ -35,7 +35,7 @@ toc_label: "ToC"
 
 0. Or Peres, Chen Avin. "Distributed Demand-aware Network Design using Bounded Square Root of Graphs.," accepted to INFOCOM 2023, 2023. [C70]
 0. Arash Pourdamghani, Chen Avin, Robert Sama, Stefan Schmid. "SeedTree: A Dynamically Optimal and Local Self-Adjusting Tree," accepted to INFOCOM 2023, 2023. [C69]
-0. Chen Avin, Marcin Bienkowski, Iosif Salem, Robert Sama, Stefan Schmid, Pawel Schmidt. "Deterministic Self-Adjusting Tree Networks Using Rotor Walks," in \emph{ICDCS 2022}: 67-77. 2022. [C68]
+0. Chen Avin, Marcin Bienkowski, Iosif Salem, Robert Sama, Stefan Schmid, Pawel Schmidt. "Deterministic Self-Adjusting Tree Networks Using Rotor Walks," in ICDCS 2022: 67-77. 2022. [C68]
 0. C. Avin, K. Mondal, and S. Schmid, "Push-Down Trees: Optimal Self-Adjusting Complete Trees," IEEE/ACM Transactions on Networking, 2022. [J38]
 0. C. Avin, K. Mondal, and S. Schmid, “Demand-aware network design with minimal congestion and route lengths,” IEEE/ACM Transactions on Networking, 2022. [J37]
 0. R. Segal, C. Avin, and G. Scalosub. "Constrained In-network Computing with Low Congestion in Datacenter Networks". in IEEE Conference on Computer Communications (INFOCOM), pp. 1639-1648, 2022. [C67]
