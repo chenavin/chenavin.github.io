@@ -33,5 +33,5 @@ Co-chair: Professor Deborah Estrin.\\
 Dissertation Title: Random Geometric Graphs: An Algorithmic Perspective.
 
 
-[Full CV (2020)](http://www.bgu.ac.il/~avin/papers/avin_cv_bgu_2020.pdf)
+[Full CV (2022)](/assets/docs/Avin_CV_BGU.pdf)
 
