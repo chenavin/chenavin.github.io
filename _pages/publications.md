@@ -21,7 +21,7 @@ toc_label: "ToC"
 | **PloS one** |2018| C. Avin, Z. Lotker, D. Peleg, Y.-A. Pignolet, and I. Turkel, <br/>  [Elites in social networks: An axiomatic approach to power balance and price’s square root law](https://doi.org/10.1371/journal.pone.0205820)|
 | **ACM  CCR**  |2018| C. Avin and S. Schmid, <br/> [Toward demand-aware networking: A theory for self-adjusting networks](https://doi.org/10.1145/3310165.3310170)|
 | **WWW**  |2018| C. Avin, A. Cohen, P. Fraigniaud, Z. Lotker, and D. Peleg, <br/> [Preferential attachment as a unique equilibrium](https://doi.org/10.1145/3178876.3186122)|
-| **KDD**  |2017| C. Avin, Z. Lotker, Y. Nahum, and D. Peleg, <br/> [Improved degree bounds and full spectrum power laws in preferential attachment networks](https://doi.org/10.1145/3097983.3098012)| 
+| **ACM KDD**  |2017| C. Avin, Z. Lotker, Y. Nahum, and D. Peleg, <br/> [Improved degree bounds and full spectrum power laws in preferential attachment networks](https://doi.org/10.1145/3097983.3098012)| 
 | **JPDC** <br/> (ICALP-15)| 2017 | C. Avin, M. Borokhovich, Z. Lotker, and D. Peleg, <br/> [Distributed computing on core–periphery networks: Axiom-based design](https://doi.org/10.1016/j.jpdc.2016.08.003) |
 | **ITCS**  |2015| C. Avin, B. Keller, Z. Lotker, C. Mathieu, D. Peleg, and Y.-A. Pignolet, <br/>  [Homophily and the glass ceiling effect in social networks](https://doi.org/10.1145/2688073.2688097)|
 | **IEEE/ACM ToN**  |2015| S. Schmid, C. Avin, C. Scheideler, M. Borokhovich, B. Haeupler, and Z. Lotker, <br/>  [Splaynet: Towards locally self-adjusting networks](https://doi.org/10.1109/TNET.2015.2410313)|
