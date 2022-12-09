@@ -154,7 +154,7 @@ symposium on parallelism in algorithms and architectures (SPAA), pp. 119–128, 
 
 * Or Peres, Chen Avin. "Distributed Demand-aware Network Design using Bounded Square Root of Graphs.," accepted to  INFOCOM 2023, 2023.
 * Arash Pourdamghani, Chen Avin, Robert Sama, Stefan Schmid. "SeedTree: A Dynamically Optimal and Local Self-Adjusting Tree," accepted to  INFOCOM 2023, 2023.
-* Chen Avin, Marcin Bienkowski, Iosif Salem, Robert Sama, Stefan Schmid, Pawel Schmidt. "Deterministic Self-Adjusting Tree Networks Using Rotor Walks," in \emph{ICDCS 2022}: 67-77. 2022.
+* Chen Avin, Marcin Bienkowski, Iosif Salem, Robert Sama, Stefan Schmid, Pawel Schmidt. "Deterministic Self-Adjusting Tree Networks Using Rotor Walks," in ICDCS 2022: 67-77. 2022.
 *  C. Avin, K. Mondal, and S. Schmid, "Push-Down Trees: Optimal Self-Adjusting Complete Trees," IEEE/ACM Transactions on Networking, 2022. [J38]
 * C. Avin, K. Mondal, and S. Schmid, “Demand-aware network design with minimal congestion and route lengths,” IEEE/ACM Transactions on Networking, 2022. [J37]
 * C. Griner, S. Schmid, and C. Avin, “Cachenet: Leveraging the principle of locality in reconfigurable network design,” Computer Networks, vol. 204, p. 108648, 2022 [J36]
