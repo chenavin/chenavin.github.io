@@ -16,7 +16,7 @@ toc_label: "ToC"
 | **IEEE/ACM ToN**  <br/> (Infocom-19)   |2022| C. Avin, K. Mondal, and S. Schmid, <br/> [Demand-aware network design with minimal congestion and route length](https://doi.org/10.1109/INFOCOM.2019.8737431)|
 | **ACM  SIGMETRICS**  |2022| C. Griner, J. Zerwas, A. Blenk, M. Ghobadi, S. Schmid, and C. Avin, <br/> [Cerberus: The power of choices in datacenter topology design-a throughput perspective](https://doi.org/10.1145/3491050)|
 | **IEEE INFOCOM**     |2022| R. Segal, C. Avin, and G. Scalosub. <br/> [Constrained In-network Computing with Low Congestion in Datacenter Networks](https://doi.org/10.1109/INFOCOM48880.2022.9796980)|
-| **ACM  SIGMETRICS**  |2020| C. Avin, M. Ghobadi, C. Griner, and S. Schmid, <br/> [On the complexity of traffic traces and implications](https://doi.org/10.1145/3393691.3394205)|
+| **ACM  SIGMETRICS**  |2020| C. Avin, M. Ghobadi, C. Griner, and S. Schmid, <br/> [On the complexity of traffic traces and implications](https://doi.org/10.1145/3379486)|
 | **Rand. Struc. & Alg.** <br/> (ICALP-08) |2018| C. Avin, M. Koucky`, and Z. Lotker, <br/> [Cover time and mixing time of random walks on dynamic graphs](https://doi.org/10.1002/rsa.20752)|
 | **PloS one** |2018| C. Avin, Z. Lotker, D. Peleg, Y.-A. Pignolet, and I. Turkel, <br/>  [Elites in social networks: An axiomatic approach to power balance and price’s square root law](https://doi.org/10.1371/journal.pone.0205820)|
 | **ACM  CCR**  |2018| C. Avin and S. Schmid, <br/> [Toward demand-aware networking: A theory for self-adjusting networks](https://doi.org/10.1145/3310165.3310170)|
