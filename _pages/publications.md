@@ -5,6 +5,7 @@ title: "Publications"
 permalink: /publications
 toc: true
 toc_label: "ToC"
+classes: wide
 ---
 
 <!---
