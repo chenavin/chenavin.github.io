@@ -34,7 +34,10 @@ toc_label: "ToC"
 
 {: reversed="reversed"}
 
-0. Or Peres, Chen Avin. "Distributed Demand-aware Network Design using Bounded Square Root of Graphs.," accepted to INFOCOM 2023, 2023. [C70]
+0. Itamar Gozlan, Chen Avin, Gil Einziger, Gabriel Scalosub. "Go-to-Controller is Better: Efficient and Optimal LPM Caching with Splicing, " accepted to  Sigmetrics 2023, 2023. [C73]
+0. Vamsi Addanki, Chen Avin, Stefan Schmid. Mars: Near-Optimal Throughput with Shallow Buffers in Reconfigurable Datacenter Networks. accepted to  Sigmetrics 2023, 2023. [C72]
+0. Johannes Zerwas,  Csaba Gy{\"o}rgyi, Andreas Blenk, Stefan Schmid, Chen Avin. "Duo: A High-Throughput Reconfigurable Datacenter Network Using Local Routing and Control," accepted to Sigmetrics 2023, 2023. [C71]
+0. Or Peres, Chen Avin. "Distributed Demand-aware Network Design using Bounded Square Root of Graphs," accepted to INFOCOM 2023, 2023. [C70]
 0. Arash Pourdamghani, Chen Avin, Robert Sama, Stefan Schmid. "SeedTree: A Dynamically Optimal and Local Self-Adjusting Tree," accepted to INFOCOM 2023, 2023. [C69]
 0. Chen Avin, Marcin Bienkowski, Iosif Salem, Robert Sama, Stefan Schmid, Pawel Schmidt. "Deterministic Self-Adjusting Tree Networks Using Rotor Walks," in ICDCS 2022: 67-77. 2022. [C68]
 0. C. Avin, K. Mondal, and S. Schmid, "Push-Down Trees: Optimal Self-Adjusting Complete Trees," IEEE/ACM Transactions on Networking, 2022. [J38]
@@ -152,9 +155,11 @@ symposium on parallelism in algorithms and architectures (SPAA), pp. 119–128, 
 
 #### Self-Adjusting Netwroks
 
-* Or Peres, Chen Avin. "Distributed Demand-aware Network Design using Bounded Square Root of Graphs.," accepted to  INFOCOM 2023, 2023.
-* Arash Pourdamghani, Chen Avin, Robert Sama, Stefan Schmid. "SeedTree: A Dynamically Optimal and Local Self-Adjusting Tree," accepted to  INFOCOM 2023, 2023.
-* Chen Avin, Marcin Bienkowski, Iosif Salem, Robert Sama, Stefan Schmid, Pawel Schmidt. "Deterministic Self-Adjusting Tree Networks Using Rotor Walks," in ICDCS 2022: 67-77. 2022.
+* Vamsi Addanki, Chen Avin, Stefan Schmid. Mars: Near-Optimal Throughput with Shallow Buffers in Reconfigurable Datacenter Networks. accepted to  Sigmetrics 2023, 2023. [C72]
+* Johannes Zerwas,  Csaba Gy{\"o}rgyi, Andreas Blenk, Stefan Schmid, Chen Avin. "Duo: A High-Throughput Reconfigurable Datacenter Network Using Local Routing and Control," accepted to Sigmetrics 2023, 2023. [C71]
+* Or Peres, Chen Avin. "Distributed Demand-aware Network Design using Bounded Square Root of Graphs.," accepted to  INFOCOM 2023, 2023. [C70]
+* Arash Pourdamghani, Chen Avin, Robert Sama, Stefan Schmid. "SeedTree: A Dynamically Optimal and Local Self-Adjusting Tree," accepted to  INFOCOM 2023, 2023. [C69]
+* Chen Avin, Marcin Bienkowski, Iosif Salem, Robert Sama, Stefan Schmid, Pawel Schmidt. "Deterministic Self-Adjusting Tree Networks Using Rotor Walks," in ICDCS 2022: 67-77. 2022. [C68]
 *  C. Avin, K. Mondal, and S. Schmid, "Push-Down Trees: Optimal Self-Adjusting Complete Trees," IEEE/ACM Transactions on Networking, 2022. [J38]
 * C. Avin, K. Mondal, and S. Schmid, “Demand-aware network design with minimal congestion and route lengths,” IEEE/ACM Transactions on Networking, 2022. [J37]
 * C. Griner, S. Schmid, and C. Avin, “Cachenet: Leveraging the principle of locality in reconfigurable network design,” Computer Networks, vol. 204, p. 108648, 2022 [J36]
@@ -277,6 +282,7 @@ symposium on parallelism in algorithms and architectures (SPAA), pp. 119–128, 
 * C. Avin and C. Brito, “Efficient and robust query processing in dynamic environments using random walk techniques,” in Proceedings of the 3rd international symposium on Information processing in sensor networks (ISPN), pp. 277–286, 2004. [C2]
 
 #### Netwroking
+* Itamar Gozlan, Chen Avin, Gil Einziger, Gabriel Scalosub. "Go-to-Controller is Better: Efficient and Optimal LPM Caching with Splicing, " accepted to  Sigmetrics 2023, 2023. [C73]
 * E. Menachi, C. Avin, and R. Giladi, “Scalable, hierarchical, ethernet transport network architecture (hetna),” Telecommunication Systems, vol. 49, no. 3, pp. 299–312, 2012. [J10]
 * C. Avin, Y. Dvory, and R. Giladi, “Geographical quadtree routing,” in Computers and Communications (ISCC), 2011 IEEE Symposium on, pp. 302–308, 2011. [C23]
 * C. Avin, R. Giladi, and D. Guy, “Psp: Path state protocol for inter-domain routing,” in Computers and Communications (ISCC), 2011 IEEE Symposium on, pp. 287–293, 2011. [C22]
@@ -294,6 +300,7 @@ symposium on parallelism in algorithms and architectures (SPAA), pp. 119–128, 
 
 #### In-netwrok computing
 
+0. Itamar Gozlan, Chen Avin, Gil Einziger, Gabriel Scalosub. "Go-to-Controller is Better: Efficient and Optimal LPM Caching with Splicing, " accepted to  Sigmetrics 2023, 2023. [C73]
 * R. Segal, C. Avin, and G. Scalosub. "Constrained In-network Computing with Low Congestion in Datacenter Networks". in IEEE Conference on Computer Communications (INFOCOM), pp. 1639-1648, 2022. [C67]
 * R. Segal, C. Avin, and G. Scalosub, “SOAR: minimizing network utilization with bounded in-network computing,” in Proceedings of the 17th International Conference on emerging Networking EXperiments and Technologies (CoNext), pp. 16–29, 2021. [C64]
 
@@ -358,8 +365,14 @@ symposium on parallelism in algorithms and architectures (SPAA), pp. 119–128, 
 * C. Avin and G. Ercal, “On the cover time and mixing time of random geometric graphs,” Theoretical Computer Science, vol. 380, no. 1-2, pp. 2–22, 2007. [J2]
 * C. Avin and R. Ben-Eliyahu-Zohary, “An upper bound on computing all x-minimal models,” AI Communications, vol. 20, no. 2, pp. 87–92, 2007. [J1]
 
-#### Conferences 
+#### Conferences
 
+* Itamar Gozlan, Chen Avin, Gil Einziger, Gabriel Scalosub. "Go-to-Controller is Better: Efficient and Optimal LPM Caching with Splicing, " accepted to  Sigmetrics 2023, 2023. [C73]
+* Vamsi Addanki, Chen Avin, Stefan Schmid. Mars: Near-Optimal Throughput with Shallow Buffers in Reconfigurable Datacenter Networks. accepted to  Sigmetrics 2023, 2023. [C72]
+* Johannes Zerwas,  Csaba Gy{\"o}rgyi, Andreas Blenk, Stefan Schmid, Chen Avin. "Duo: A High-Throughput Reconfigurable Datacenter Network Using Local Routing and Control," accepted to Sigmetrics 2023, 2023. [C71]
+* Or Peres, Chen Avin. "Distributed Demand-aware Network Design using Bounded Square Root of Graphs.," accepted to  INFOCOM 2023, 2023. [C70]
+* Arash Pourdamghani, Chen Avin, Robert Sama, Stefan Schmid. "SeedTree: A Dynamically Optimal and Local Self-Adjusting Tree," accepted to INFOCOM 2023, 2023. [C69]
+* Chen Avin, Marcin Bienkowski, Iosif Salem, Robert Sama, Stefan Schmid, Pawel Schmidt. "Deterministic Self-Adjusting Tree Networks Using Rotor Walks," in ICDCS 2022: 67-77. 2022. [C68]
 * R. Segal, C. Avin, and G. Scalosub. "Constrained In-network Computing with Low Congestion in Datacenter Networks". in IEEE Conference on Computer Communications (INFOCOM), pp. 1639-1648, 2022. [C67]
 * C. Griner, J. Zerwas, A. Blenk, M. Ghobadi, S. Schmid, and C. Avin, “Cerberus: The power of choices in datacenter topology design-a throughput perspective,” Proceedings of the ACM on Measurement and Analysis of Computing Systems (Sigmetrics), vol. 5, no. 3, pp. 1–33, 2021. [C66]
 * J. Zerwas, C. Avin, S. Schmid, and A. Blenk, “Exrec: Experimental framework for reconfigurable networks based on off-the-shelf hardware,” in Proceedings of the Symposium on Architectures for Networking and Communications Systems (ANCS), pp. 66–72, 2021. [C65]
