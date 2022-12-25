@@ -3,7 +3,6 @@ layout: single
 author_profile: true
 title: "Publications"
 permalink: /publications
-classes: wide
 toc: true
 toc_label: "ToC"
 ---
