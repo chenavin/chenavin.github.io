@@ -32,6 +32,8 @@ toc_label: "ToC"
  
 ### Full publication list
 
+Most updated: [Google Scholar](https://scholar.google.co.il/citations?user=n8JGcgQAAAAJ&hl=en), [DBLP](https://dblp.org/pid/04/5911.html).
+
 {: reversed="reversed"}
 
 0. Itamar Gozlan, Chen Avin, Gil Einziger, Gabriel Scalosub. "Go-to-Controller is Better: Efficient and Optimal LPM Caching with Splicing, " accepted to  Sigmetrics 2023, 2023. [C73]
