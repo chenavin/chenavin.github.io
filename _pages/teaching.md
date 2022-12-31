@@ -7,13 +7,13 @@ classes: wide
 ---
 
 
-|Intoroduction to computer networks | undergraduate level | BGU | 2022 - current |
-|Computer Networks Design  | undergraduate level | BGU | 2021 - current |
+|Introduction to computer networks | undergraduate level | BGU | 2022 - current |
+|Computer networks design  | undergraduate level | BGU | 2021 - current |
 | Network Algorithms | graduate level | BGU | 2008 - current |
 | Social Networks Analysis | graduate and undergraduate level | BGU | 2015 - current |
 |Computer Networks - CS168 | graduate and undergraduate level | Brown University | 2014 |
 |Computer Communication Networks 2 | undergraduate level |BGU | 2006-2019 |
-| Introduction to information Theory | undergraduate level  | BGU | 2006-1019 |
+| Introduction to information Theory | undergraduate level  | BGU | 2006-2019 |
 | Advance Digital Communication | graduate level | BGU | 2012-2016 |
 | Advance Topics in Networking | graduate level | BGU | 2015-2018 |
 | Random Walks and Random Graphs | summer class, graduate level | USC | 2006 |
