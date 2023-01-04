@@ -6,7 +6,7 @@ permalink: /teaching
 classes: wide
 ---
 
-[See me in action](https://www.youtube.com/watch?v=t-cl6f9TOas) (an promotion to use Wooclap in class).
+[See me in action](https://www.youtube.com/watch?v=t-cl6f9TOas) 😜 (an promotion to use Wooclap in class).
 
 |Introduction to computer networks | undergraduate level | BGU | 2022 - current |
 |Computer networks design  | undergraduate level | BGU | 2021 - current |
