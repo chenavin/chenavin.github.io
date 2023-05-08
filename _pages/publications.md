@@ -302,7 +302,7 @@ symposium on parallelism in algorithms and architectures (SPAA), pp. 119–128, 
 
 #### In-netwrok computing
 
-0. Itamar Gozlan, Chen Avin, Gil Einziger, Gabriel Scalosub. "Go-to-Controller is Better: Efficient and Optimal LPM Caching with Splicing, " accepted to  Sigmetrics 2023, 2023. [C73]
+*. Itamar Gozlan, Chen Avin, Gil Einziger, Gabriel Scalosub. "Go-to-Controller is Better: Efficient and Optimal LPM Caching with Splicing, " accepted to  Sigmetrics 2023, 2023. [C73]
 * R. Segal, C. Avin, and G. Scalosub. "Constrained In-network Computing with Low Congestion in Datacenter Networks". in IEEE Conference on Computer Communications (INFOCOM), pp. 1639-1648, 2022. [C67]
 * R. Segal, C. Avin, and G. Scalosub, “SOAR: minimizing network utilization with bounded in-network computing,” in Proceedings of the 17th International Conference on emerging Networking EXperiments and Technologies (CoNext), pp. 16–29, 2021. [C64]
 
