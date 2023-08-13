@@ -6,6 +6,8 @@ permalink: /teaching
 classes: wide
 ---
 
+[Online course on Self-Adjusting Networks](https://www.youtube.com/channel/UCh-22PYNnPmI91HsnFR9Eaw) (with [Prof. Stefan Schmid](https://schmiste.github.io/))
+
 [See me in action](https://www.youtube.com/watch?v=t-cl6f9TOas) 😜 (a promotion video to use Wooclap in class).
 
 |Introduction to computer networks | undergraduate level | BGU | 2022 - current |
