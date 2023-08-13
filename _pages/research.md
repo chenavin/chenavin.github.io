@@ -33,7 +33,7 @@ toc_label: "ToC"
 |GIF Young | 2007-2008 | The Road Not Taken - Random Walk with Choice for Wireless Networks Applications. | German-Israeli Foundation - Grant No. 2183-1807.6/2007 |
 
 
-### Organizing 
+### Organizing Committees
 
 * [Israeli Networking Day 2021](https://sites.google.com/view/israelinetworkingday2021)
 * [OptSys - ACM SIGCOMM 2021 Workshop on Optical Systems Design](https://conferences.sigcomm.org/sigcomm/2021/workshop-optsys.html)
@@ -41,7 +41,7 @@ toc_label: "ToC"
 * [OptSys - ACM SIGCOMM 2019 Workshop on Optical Systems Design](https://conferences.sigcomm.org/sigcomm/2019/workshop-optsys.html)
 * [DCC 2019 -  International Workshop on Distributed Cloud Computing](http://www.disc-conference.org/wp/dcc2019/)
 * [PODC 2016 - The ACM Symposium on Principles of Distributed Computing](https://www.podc.org/podc2016/)
-* SIROCCO 2015 - The 22nd International Colloquium on Structural Information and Com- munication Complexity
+* SIROCCO 2015 - The 22nd International Colloquium on Structural Information and Communication Complexity
 * [DISC 2015 - The International Symposium on DIStributed Computing](http://www.disc-conference.org/wp/disc2014/)
 * [DISC 2014 - The International Symposium on DIStributed Computing](http://www.disc-conference.org/wp/disc2014/)
 * [DISC 2013 - The International Symposium on DIStributed Computing](http://www.disc-conference.org/wp/disc2013/)
