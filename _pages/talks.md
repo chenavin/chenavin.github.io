@@ -6,6 +6,8 @@ permalink: /talks
 classes: wide
 ---
 
+| INFOCOM | 2023 | Distributed Demand-aware Network Design using Bounded Square Root of Graphs | NJ, USA |
+| INFOCOM | 2023 | SeedTree: A Dynamically Optimal and Local Self-Adjusting Tree | NJ, USA |
 |**Microsoft** | 2022 | Cerberus: The Power of Choices in Datacenter Topology Design -- A Throughput Perspective | Microsoft, Cambridge, UK. (via Zoom) | 
 |HUJI | 2022 | Cerberus: The Power of Choices in Datacenter Topology Design -- A Throughput Perspective | Hebrew University. Jerusalem, Israel. | 
 |Huawei | 2022 | Cerberus: The Power of Choices in Datacenter Topology Design -- A Throughput Perspective | Toga Networks, Israel. |
