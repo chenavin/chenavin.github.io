@@ -6,6 +6,7 @@ permalink: /talks
 classes: wide
 ---
 
+| TU Berlin | 2023 | Bounded In-Network Computing for Distributed Machine Learning | Berlin, Germany |
 | INFOCOM | 2023 | Distributed Demand-aware Network Design using Bounded Square Root of Graphs | NJ, USA |
 | INFOCOM | 2023 | SeedTree: A Dynamically Optimal and Local Self-Adjusting Tree | NJ, USA |
 |**Microsoft** | 2022 | Cerberus: The Power of Choices in Datacenter Topology Design -- A Throughput Perspective | Microsoft, Cambridge, UK. (via Zoom) | 
