@@ -6,7 +6,7 @@ permalink: /teaching
 classes: wide
 ---
 
-[Online course on Self-Adjusting Networks](https://www.youtube.com/channel/UCh-22PYNnPmI91HsnFR9Eaw) (with [Prof. Stefan Schmid](https://schmiste.github.io/))
+[Online course on Self-Adjusting Networks](https://youtube.com/playlist?list=PLejgnslggHiTe-fWFU4yF6Oe4_aRo7Wez&si=DqHRyRYhgVg0F9pT) (with [Prof. Stefan Schmid](https://schmiste.github.io/))
 
 [Course short promo](https://www.youtube.com/watch?v=_nvSAysWY2I&list=PLXvqVggc2U2GFbsGyarBQV95wmTXPCh5v&index=1&t=3s)
 
