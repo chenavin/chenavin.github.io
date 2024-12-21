@@ -8,7 +8,7 @@ classes: wide
 
 [Online course on Self-Adjusting Networks](https://www.youtube.com/channel/UCh-22PYNnPmI91HsnFR9Eaw) (with [Prof. Stefan Schmid](https://schmiste.github.io/))
 
-![animation](/assets/images/flyer-erc.gif){: width="400px" .align-center}
+![animation](/assets/images/flyer-erc.gif){: width="500px" .align-center}
 
 [See me in action](https://www.youtube.com/watch?v=t-cl6f9TOas) 😜 (a promotion video to use Wooclap in class).
 
