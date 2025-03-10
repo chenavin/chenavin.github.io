@@ -14,7 +14,7 @@ toc_label: "ToC"
 ### Selected Publications
 
 
-| **Scientific Reports** |2024| C. Avin, H. Daltrophe, Z. Lotker, <br/> [On the impossibility of breaking the echo chamber effect in social media using regulation](https://doi.org/10.1038/s41598-023-50850-6)![nature](/assets/images/nature.png){: width="20px" .align-right}|
+| **Scientific Reports** |2024| C. Avin, H. Daltrophe, Z. Lotker, <br/> [On the impossibility of breaking the echo chamber effect in social media using regulation](https://doi.org/10.1038/s41598-023-50850-6)![nature](/assets/images/nature.png){: width="40px" .align-right}|
 | **ACM  SIGMETRICS**  |2023| V. Addanki, C. Avin, S. Schmid:, <br/> [Mars: Near-Optimal Throughput with Shallow Buffers in Reconfigurable Datacenter Networks](https://doi.org/10.1145/3579312)|
 | **IEEE/ACM ToN**  <br/> (Infocom-19)   |2022| C. Avin, K. Mondal, and S. Schmid, <br/> [Demand-aware network design with minimal congestion and route length](https://doi.org/10.1109/INFOCOM.2019.8737431)|
 | **ACM  SIGMETRICS**  |2022| C. Griner, J. Zerwas, A. Blenk, M. Ghobadi, S. Schmid, and C. Avin, <br/> [Cerberus: The power of choices in datacenter topology design-a throughput perspective](https://doi.org/10.1145/3491050)|
