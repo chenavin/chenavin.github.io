@@ -12,7 +12,7 @@ permalink: /
 <br/>
 [![Video](/assets/images/cacm.jpg){: width="200px" .align-left}](https://vimeo.com/1084779377 "Click to Watch!")
 
-<br>
+<br/><br/>
 **News:** Starting October 2023, I'm on Sabbatical from BGU and joined [Nvidia](https://www.nvidia.com/) as a Visiting Professor, Architect.
 
 **About me:** I'm a Professor at the [School of Electrical and Computer Engineering](https://in.bgu.ac.il/engn/ece/Pages/default.aspx), [Ben-Gurion University of the Negev](https://www.bgu.ac.il), Israel. I did my undergraduate studies at the department of communication system engineering, BGU.  I received my MSc and Ph.D. degrees in [computer science](https://www.cs.ucla.edu/) from the University of California, Los Angeles (UCLA), in 2003 and 2006, respectively. I spent a sabbatical year during 2013-2014 as a visiting professor at [ICERM](http://icerm.brown.edu/sp-s14) and [Brown University](https://cs.brown.edu/), RI, USA. From 2018 to 2021, I served as the chair of the Communication Systems Engineering department at BGU. Since 2021 I'm also a senate member at BGU. Currently, I'm also an associate editor at [IEEE TNSM](https://www.comsoc.org/publications/journals/ieee-tnsm).
