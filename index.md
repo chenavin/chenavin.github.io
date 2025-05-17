@@ -9,7 +9,7 @@ permalink: /
 
 **update** Our paper in The Communications of the ACM is out! C. Avin and S. Schmid:
 [Revolutionizing Datacenter Networks via Reconfigurable Topologies](https://bit.ly/43cEL3L) 
-[![Video](/assets/images/cacm.jpg){: width="80px" .align-right}](https://vimeo.com/1084779377 "Click to Watch!")
+[![Video](/assets/images/cacm.jpg){: width="100px" .align-right}](https://vimeo.com/1084779377 "Click to Watch!")
 
 **News:** Starting October 2023, I'm on Sabbatical from BGU and joined [Nvidia](https://www.nvidia.com/) as a Visiting Professor, Architect.
 
